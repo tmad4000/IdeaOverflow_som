@@ -1,0 +1,881 @@
+jcole@ubuntu:~$ ls
+code  Desktop  Documents  Downloads  Music  node  Pictures  Public  Templates  tmp  Videos
+jcole@ubuntu:~$ 
+jcole@ubuntu:~$ 
+jcole@ubuntu:~$ 
+jcole@ubuntu:~$ 
+jcole@ubuntu:~$ cd code/
+jcole@ubuntu:~/code$ ls
+expressjs  som  virtualenv_intall_transcript.txt
+jcole@ubuntu:~/code$ cd som/
+jcole@ubuntu:~/code/som$ ls
+d4d  d4d_feb_19_2013.zip  idea_mapper.py  ideaoverflow-hackny  venv.bak  venv_chase
+jcole@ubuntu:~/code/som$ venv venv.bak/
+No command 'venv' found, did you mean:
+ Command 'env' from package 'coreutils' (main)
+venv: command not found
+jcole@ubuntu:~/code/som$ . venv.bak/bin/activate
+(venv_som)jcole@ubuntu:~/code/som$ pip freeze
+Warning: cannot find svn location for distribute==0.6.16dev-r0
+ConceptNet==4.0.1
+Divisi2==2.2.5
+Django==1.4.1
+GnuPGInterface==0.3.2
+PIL==1.1.7
+apt-xapian-index==0.44
+apturl==0.5ubuntu1
+boto==2.8.0
+chardet==2.0.1
+command-not-found==0.2.44
+csc-pysparse==1.1.1.4
+csc-utils==0.6.7
+## FIXME: could not find svn URL in dependency_links for this package:
+distribute==0.6.16dev-r0
+dj-database-url==0.2.1
+django-storages==1.1.7
+gunicorn==0.17.2
+httplib2==0.7.1
+jockey==0.9.4
+keyring==0.6.2
+launchpadlib==1.9.8
+lazr.restfulclient==0.11.2                                                                         
+lazr.uri==1.0.2                                                                                    
+networkx==1.7                                                                                      
+numpy==1.5.1                                                                                       
+nvidia-common==0.0.0                                                                               
+oauth==1.0.1                                                                                       
+pexpect==2.3                                                                                       
+pycrypto==2.3                                                                                      
+pycups==1.9.58                                                                                     
+pycurl==7.19.0                                                                                     
+pysmbc==1.0.10                                                                                     
+python-apt==0.8.0ubuntu9                                                                           
+python-debian==0.1.20ubuntu2                                                                       
+pyudev==0.12                                                                                       
+pyxdg==0.19                                                                                        
+simplejson==3.1.2                                                                                  
+simplenlp==1.1.2                                                                                   
+synaptiks==0.7.0                                                                                   
+ufw==0.30.1-2ubuntu1                                                                               
+unattended-upgrades==0.1                                                                           
+usb-creator==0.2.23                                                                                
+virtualenv==1.6.4                                                                                  
+wadllib==1.2.0                                                                                     
+wsgiref==0.1.2
+xkit==0.0.0
+zope.interface==3.6.1
+(venv_som)jcole@ubuntu:~/code/som$ ls
+d4d  d4d_feb_19_2013.zip  idea_mapper.py  ideaoverflow-hackny  venv.bak  venv_chase
+(venv_som)jcole@ubuntu:~/code/som$ 
+(venv_som)jcole@ubuntu:~/code/som$ 
+(venv_som)jcole@ubuntu:~/code/som$ 
+(venv_som)jcole@ubuntu:~/code/som$ 
+(venv_som)jcole@ubuntu:~/code/som$ ls
+d4d  d4d_feb_19_2013.zip  idea_mapper.py  ideaoverflow-hackny  venv.bak  venv_chase
+(venv_som)jcole@ubuntu:~/code/som$ 
+(venv_som)jcole@ubuntu:~/code/som$ 
+(venv_som)jcole@ubuntu:~/code/som$ 
+(venv_som)jcole@ubuntu:~/code/som$ cd ideaoverflow-hackny/
+(venv_som)jcole@ubuntu:~/code/som/ideaoverflow-hackny$ cd ideaflowapp/
+(venv_som)jcole@ubuntu:~/code/som/ideaoverflow-hackny/ideaflowapp$ ls
+ideaflowapp  ideaflow.db  manage.py  static  templates  webapp
+(venv_som)jcole@ubuntu:~/code/som/ideaoverflow-hackny/ideaflowapp$ 
+(venv_som)jcole@ubuntu:~/code/som/ideaoverflow-hackny/ideaflowapp$ 
+(venv_som)jcole@ubuntu:~/code/som/ideaoverflow-hackny/ideaflowapp$ 
+(venv_som)jcole@ubuntu:~/code/som/ideaoverflow-hackny/ideaflowapp$ python manage.py runserver
+Validating models...
+
+0 errors found
+Django version 1.4.1, using settings 'ideaflowapp.settings'
+Development server is running at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[28/Apr/2013 22:28:01] "GET / HTTP/1.1" 200 31849
+[28/Apr/2013 22:28:02] "GET /static/flat-ui.css HTTP/1.1" 200 68140
+[28/Apr/2013 22:28:02] "GET /static/bootstrap.min.css HTTP/1.1" 200 103316
+[28/Apr/2013 22:28:02] "GET /static/bootstrap-responsive.min.css HTTP/1.1" 200 16553
+[28/Apr/2013 22:28:02] "GET /static/common.css HTTP/1.1" 200 5558
+[28/Apr/2013 22:28:02] "GET /static/magicsuggest-1.2.3-min.css HTTP/1.1" 200 12347
+[28/Apr/2013 22:28:02] "GET /js/jquery.color.js HTTP/1.1" 404 2758
+[28/Apr/2013 22:28:02] "GET /static/app.css HTTP/1.1" 200 1676                                                                       
+[28/Apr/2013 22:28:02] "GET /static/magicsuggest-1.2.3-min.js HTTP/1.1" 200 18237
+[28/Apr/2013 22:28:02] "GET /static/bootstrap.min.js HTTP/1.1" 200 31596
+[28/Apr/2013 22:28:03] "GET /static/common.js HTTP/1.1" 200 1184
+[28/Apr/2013 22:28:03] "GET /static/app.js HTTP/1.1" 200 7300
+[28/Apr/2013 22:28:03] "GET /static/util.js HTTP/1.1" 200 466
+[28/Apr/2013 22:28:03] "GET /static/textured_paper.png HTTP/1.1" 200 134365
+[28/Apr/2013 22:28:03] "GET /ajax/autocomplete/?autocomplete= HTTP/1.1" 200 3636
+[28/Apr/2013 22:28:03] "GET /static/white_wall_hash.png HTTP/1.1" 200 63953
+[28/Apr/2013 22:28:03] "GET /static/arroworange.png HTTP/1.1" 200 1052037
+[28/Apr/2013 22:28:30] "POST /ajax/upvote/ HTTP/1.1" 200 14
+
+
+
+^C(venv_som)jcole@ubuntu:~/code/som/ideaoverflow-hackny/ideaflowapp$ ^C
+(venv_som)jcole@ubuntu:~/code/som/ideaoverflow-hackny/ideaflowapp$ ^C
+(venv_som)jcole@ubuntu:~/code/som/ideaoverflow-hackny/ideaflowapp$ ^C
+(venv_som)jcole@ubuntu:~/code/som/ideaoverflow-hackny/ideaflowapp$ ^C
+(venv_som)jcole@ubuntu:~/code/som/ideaoverflow-hackny/ideaflowapp$ which python
+/usr/bin/python
+(venv_som)jcole@ubuntu:~/code/som/ideaoverflow-hackny/ideaflowapp$ cd /usr/
+bin/     games/   include/ lib/     lib32/   local/   sbin/    share/   src/     
+(venv_som)jcole@ubuntu:~/code/som/ideaoverflow-hackny/ideaflowapp$ cd /usr/lib/py
+pymodules/ pyshared/  python2.6/ python2.7/ python3/   
+(venv_som)jcole@ubuntu:~/code/som/ideaoverflow-hackny/ideaflowapp$ cd /usr/lib/py
+pymodules/ pyshared/  python2.6/ python2.7/ python3/   
+(venv_som)jcole@ubuntu:~/code/som/ideaoverflow-hackny/ideaflowapp$ cd /usr/lib/python2.7/
+(venv_som)jcole@ubuntu:/usr/lib/python2.7$ ls
+_abcoll.py          copy_reg.py          HTMLParser.py          numbers.pyc         sched.pyc               tarfile.pyc
+_abcoll.pyc         copy_reg.pyc         HTMLParser.pyc         opcode.py           sets.py                 telnetlib.py
+abc.py              cProfile.py          httplib.py             opcode.pyc          sets.pyc                telnetlib.pyc
+abc.pyc             cProfile.pyc         httplib.pyc            optparse.py         sgmllib.py              tempfile.py
+aifc.py             csv.py               ihooks.py              optparse.pyc        sgmllib.pyc             tempfile.pyc
+aifc.pyc            csv.pyc              ihooks.pyc             os2emxpath.py       sha.py                  test
+antigravity.py      ctypes               imaplib.py             os2emxpath.pyc      sha.pyc                 textwrap.py
+antigravity.pyc     curses               imaplib.pyc            os.py               shelve.py               textwrap.pyc
+anydbm.py           dbhash.py            imghdr.py              os.pyc              shelve.pyc              this.py
+anydbm.pyc          dbhash.pyc           imghdr.pyc             pdb.doc             shlex.py                this.pyc
+argparse.py         decimal.py           importlib              pdb.py              shlex.pyc               _threading_local.py
+argparse.pyc        decimal.pyc          imputil.py             pdb.pyc             shutil.py               _threading_local.pyc
+ast.py              difflib.py           imputil.pyc            __phello__.foo.py   shutil.pyc              threading.py
+ast.pyc             difflib.pyc          inspect.py             __phello__.foo.pyc  SimpleHTTPServer.py     threading.pyc
+asynchat.py         dircache.py          inspect.pyc            pickle.py           SimpleHTTPServer.pyc    timeit.py
+asynchat.pyc        dircache.pyc         io.py                  pickle.pyc          SimpleXMLRPCServer.py   timeit.pyc
+asyncore.py         dis.py               io.pyc                 pickletools.py      SimpleXMLRPCServer.pyc  toaiff.py
+asyncore.pyc        dis.pyc              json                   pickletools.pyc     sitecustomize.py        toaiff.pyc
+atexit.py           dist-packages        keyword.py             pipes.py            sitecustomize.pyc       tokenize.py
+atexit.pyc          distutils            keyword.pyc            pipes.pyc           site.py                 tokenize.pyc
+audiodev.py         doctest.py           lib2to3                pkgutil.py          site.pyc                token.py
+audiodev.pyc        doctest.pyc          lib-dynload            pkgutil.pyc         smtpd.py                token.pyc
+base64.py           DocXMLRPCServer.py   lib-tk                 platform.py         smtpd.pyc               traceback.py
+base64.pyc          DocXMLRPCServer.pyc  LICENSE.txt            platform.pyc        smtplib.py              traceback.pyc
+BaseHTTPServer.py   dumbdbm.py           linecache.py           plat-linux2         smtplib.pyc             trace.py
+BaseHTTPServer.pyc  dumbdbm.pyc          linecache.pyc          plistlib.py         sndhdr.py               trace.pyc
+Bastion.py          dummy_threading.py   locale.py              plistlib.pyc        sndhdr.pyc              tty.py
+Bastion.pyc         dummy_threading.pyc  locale.pyc             popen2.py           socket.py               tty.pyc
+bdb.py              dummy_thread.py      logging                popen2.pyc          socket.pyc              types.py
+bdb.pyc             dummy_thread.pyc     _LWPCookieJar.py       poplib.py           SocketServer.py         types.pyc
+binhex.py           email                _LWPCookieJar.pyc      poplib.pyc          SocketServer.pyc        unittest
+binhex.pyc          encodings            macpath.py             posixfile.py        sqlite3                 urllib2.py
+bisect.py           filecmp.py           macpath.pyc            posixfile.pyc       sre_compile.py          urllib2.pyc
+bisect.pyc          filecmp.pyc          macurl2path.py         posixpath.py        sre_compile.pyc         urllib.py
+bsddb               fileinput.py         macurl2path.pyc        posixpath.pyc       sre_constants.py        urllib.pyc
+calendar.py         fileinput.pyc        mailbox.py             pprint.py           sre_constants.pyc       urlparse.py
+calendar.pyc        fnmatch.py           mailbox.pyc            pprint.pyc          sre_parse.py            urlparse.pyc
+CGIHTTPServer.py    fnmatch.pyc          mailcap.py             profile.py          sre_parse.pyc           UserDict.py
+CGIHTTPServer.pyc   formatter.py         mailcap.pyc            profile.pyc         sre.py                  UserDict.pyc
+cgi.py              formatter.pyc        markupbase.py          pstats.py           sre.pyc                 UserList.py
+cgi.pyc             fpformat.py          markupbase.pyc         pstats.pyc          ssl.py                  UserList.pyc
+cgitb.py            fpformat.pyc         md5.py                 pty.py              ssl.pyc                 user.py
+cgitb.pyc           fractions.py         md5.pyc                pty.pyc             stat.py                 user.pyc
+chunk.py            fractions.pyc        mhlib.py               pyclbr.py           stat.pyc                UserString.py
+chunk.pyc           ftplib.py            mhlib.pyc              pyclbr.pyc          statvfs.py              UserString.pyc
+cmd.py              ftplib.pyc           mimetools.py           py_compile.py       statvfs.pyc             uuid.py
+cmd.pyc             functools.py         mimetools.pyc          py_compile.pyc      StringIO.py             uuid.pyc
+codecs.py           functools.pyc        mimetypes.py           pydoc_data          StringIO.pyc            uu.py
+codecs.pyc          __future__.py        mimetypes.pyc          pydoc.py            stringold.py            uu.pyc
+codeop.py           __future__.pyc       MimeWriter.py          pydoc.pyc           stringold.pyc           warnings.py
+codeop.pyc          genericpath.py       MimeWriter.pyc         _pyio.py            stringprep.py           warnings.pyc
+code.py             genericpath.pyc      mimify.py              _pyio.pyc           stringprep.pyc          wave.py
+code.pyc            getopt.py            mimify.pyc             Queue.py            string.py               wave.pyc
+collections.py      getopt.pyc           modulefinder.py        Queue.pyc           string.pyc              weakref.py
+collections.pyc     getpass.py           modulefinder.pyc       quopri.py           _strptime.py            weakref.pyc
+colorsys.py         getpass.pyc          _MozillaCookieJar.py   quopri.pyc          _strptime.pyc           _weakrefset.py
+colorsys.pyc        gettext.py           _MozillaCookieJar.pyc  random.py           struct.py               _weakrefset.pyc
+commands.py         gettext.pyc          multifile.py           random.pyc          struct.pyc              webbrowser.py
+commands.pyc        glob.py              multifile.pyc          repr.py             subprocess.py           webbrowser.pyc
+compileall.py       glob.pyc             multiprocessing        repr.pyc            subprocess.pyc          whichdb.py
+compileall.pyc      gzip.py              mutex.py               re.py               sunaudio.py             whichdb.pyc
+compiler            gzip.pyc             mutex.pyc              re.pyc              sunaudio.pyc            wsgiref
+config              hashlib.py           netrc.py               rexec.py            sunau.py                wsgiref.egg-info
+ConfigParser.py     hashlib.pyc          netrc.pyc              rexec.pyc           sunau.pyc               xdrlib.py
+ConfigParser.pyc    heapq.py             new.py                 rfc822.py           symbol.py               xdrlib.pyc
+contextlib.py       heapq.pyc            new.pyc                rfc822.pyc          symbol.pyc              xml
+contextlib.pyc      hmac.py              nntplib.py             rlcompleter.py      symtable.py             xmllib.py
+cookielib.py        hmac.pyc             nntplib.pyc            rlcompleter.pyc     symtable.pyc            xmllib.pyc
+cookielib.pyc       hotshot              ntpath.py              robotparser.py      sysconfig.py            xmlrpclib.py
+Cookie.py           htmlentitydefs.py    ntpath.pyc             robotparser.pyc     sysconfig.pyc           xmlrpclib.pyc
+Cookie.pyc          htmlentitydefs.pyc   nturl2path.py          runpy.py            tabnanny.py             zipfile.py
+copy.py             htmllib.py           nturl2path.pyc         runpy.pyc           tabnanny.pyc            zipfile.pyc
+copy.pyc            htmllib.pyc          numbers.py             sched.py            tarfile.py
+(venv_som)jcole@ubuntu:/usr/lib/python2.7$ cd ..
+(venv_som)jcole@ubuntu:/usr/lib$ ls
+accountsservice                       libicutest.so.44                           libnl-cli.so.3.0.0
+akonadi                               libicutest.so.44.2                         libnl-genl.so.3
+apt                                   libicutu.so.44                             libnl-genl.so.3.0.0
+aspell                                libicutu.so.44.2                           libnl-nf.so.3
+attica_kde.so                         libicuuc.so.44                             libnl-nf.so.3.0.0
+AuErrorDB                             libicuuc.so.44.2                           libnl-route.so.3
+avahi                                 libiec61883.so.0                           libnl-route.so.3.0.0
+binfmt-support                        libiec61883.so.0.1.1                       libnl.so.3
+bluedevil                             libIex.so.6                                libnl.so.3.0.0
+caca                                  libIex.so.6.0.0                            libnm-glib.so.4
+cli                                   libijs-0.35.so                             libnm-glib.so.4.2.0
+command-not-found                     libIlmImf.so.6                             libnm-glib-vpn.so.1
+compat-ld                             libIlmImf.so.6.0.0                         libnm-glib-vpn.so.1.1.0
+ConsoleKit                            libIlmThread.so.6                          libnm-util.so.2
+coreutils                             libIlmThread.so.6.0.0                      libnm-util.so.2.1.0
+crda                                  libImath.so.6                              libntrack-qt4.so.1
+cups                                  libImath.so.6.0.0                          libntrack-qt4.so.1.0.1
+dbus-1.0                              libimobiledevice.so.2                      libntrack.so.0
+d-conf                                libimobiledevice.so.2.0.1                  libntrack.so.0.3.3
+dkms                                  libincidenceeditorsng.so.4                 libodbcinst.so.1
+dpkg                                  libincidenceeditorsng.so.4.7.0             libodbcinst.so.1.0.0
+dtrace                                libindicate-qt.so.1                        libokularcore.so.1
+e2initrd_helper                       libindicate-qt.so.1.4.1                    libokularcore.so.1.7.0
+eject                                 libindicate.so.5                           libopcodes-2.21.53-system.20110810.so
+emacsen-common                        libindicate.so.5.0.5                       libopenobex.so.1
+enchant                               libIntelXvMC.so.1                          libopenobex.so.1.5.0
+firefox                               libIntelXvMC.so.1.0.0                      liborc-0.4.so.0
+firefox-addons                        libiodbcinst.so.2                          liborc-0.4.so.0.14.0
+gcc                                   libiodbcinst.so.2.1.19                     liborc-test-0.4.so.0
+ghostscript                           libiodbc.so.2                              liborc-test-0.4.so.0.14.0
+gio                                   libiodbc.so.2.1.19                         liboscar.so.1
+gio-sharp                             libisccc.so.60                             liboscar.so.1.0.0
+girepository-1.0                      libisccc.so.60.0.0                         libotr.so.2
+git-core                              libisccfg.so.62                            libotr.so.2.2.0
+glib-networking                       libisccfg.so.62.0.0                        liboxygenstyle.so.4
+gnome-settings-daemon-2.0             libisc.so.62                               liboxygenstyle.so.4.7.0
+gnupg                                 libisc.so.62.1.1                           libpanel.so.5
+gnupg2                                libjbig2dec.so.0                           libpanel.so.5.9
+gold-ld                               libjbig2dec.so.0.0.0                       libpanelw.so.5
+gpointing-device-settings             libk3bdevice.so.6                          libpanelw.so.5.9
+grantlee                              libk3bdevice.so.6.0.0                      libpaper.so.1
+grub                                  libk3blib.so.6                             libpaper.so.1.1.2
+grub-legacy                           libk3blib.so.6.0.0                         libpartitionmanagerprivate.so
+gstreamer-0.10                        libkabc_file_core.so.4                     libperl.so.5.12
+gstreamer0.10                         libkabc_file_core.so.4.7.0                 libperl.so.5.12.4
+gtk-2.0                               libkabcgroupwise.so.4                      libphonon.so.4
+gtk-3.0                               libkabcgroupwise.so.4.7.0                  libphonon.so.4.5.0
+i386-linux-gnu                        libkabc.so.4                               libplasma_applet-system-monitor.so.4
+ibus                                  libkabc.so.4.7.0                           libplasma_applet-system-monitor.so.4.7.0
+initramfs-tools                       libkaddressbookprivate.so.4                libplasmaclock.so.4.7.0.abi2
+ispell                                libkaddressbookprivate.so.4.7.0            libplasmaclock.so.4abi2
+kconf_update_bin                      libkateinterfaces.so.4                     libplasmacomicprovidercore.so.1
+kde4                                  libkateinterfaces.so.4.7.0                 libplasmacomicprovidercore.so.1.0.0
+klibc                                 libkatepartinterfaces.so.4                 libplasmagenericshell.so.4
+language-selector                     libkatepartinterfaces.so.4.7.0             libplasmagenericshell.so.4.7.0
+lapack                                libkblog.so.4                              libplasma-geolocation-interface.so.4
+ldscripts                             libkblog.so.4.7.0                          libplasma-geolocation-interface.so.4.7.0
+libaa.so.1                            libkbookmarkmodel_private.so.4             libplasmapotdprovidercore.so.1
+libaa.so.1.0.4                        libkbookmarkmodel_private.so.4.7.0         libplasmapotdprovidercore.so.1.0.0
+libaccountsservice.so.0               libkcalcore.so.4                           libplasma.so.3
+libaccountsservice.so.0.0.0           libkcalcore.so.4.7.0                       libplasma.so.3.0.0
+libakonadi-calendar.so.4              libkcalgroupwise.so.4                      libplasmaweather.so.4
+libakonadi-calendar.so.4.7.0          libkcalgroupwise.so.4.7.0                  libplasmaweather.so.4.7.0
+libakonadi-contact.so.4               libkcal_resourceblog.so.4                  libplist.so.1
+libakonadi-contact.so.4.7.0           libkcal_resourceblog.so.4.7.0              libplist.so.1.1.6
+libakonadi-filestore.so.4             libkcal_resourceremote.so.4                libpolkit-agent-1.so.0
+libakonadi-filestore.so.4.7.0         libkcal_resourceremote.so.4.7.0            libpolkit-agent-1.so.0.0.0
+libakonadi-kabc.so.4                  libkcal.so.4                               libpolkit-backend-1.so.0
+libakonadi-kabc.so.4.7.0              libkcal.so.4.7.0                           libpolkit-backend-1.so.0.0.0
+libakonadi-kcal.so.4                  libkcalutils.so.4                          libpolkit-gobject-1.so.0
+libakonadi-kcal.so.4.7.0              libkcalutils.so.4.7.0                      libpolkit-gobject-1.so.0.0.0
+libakonadi-kde.so.4                   libkcardgame.so                            libpolkit-qt-agent-1.so.1
+libakonadi-kde.so.4.7.0               libkcddb.so.4                              libpolkit-qt-agent-1.so.1.99.0
+libakonadi-kmime.so.4                 libkcddb.so.4.7.0                          libpolkit-qt-core-1.so.1
+libakonadi-kmime.so.4.7.0             libkcmutils.so.4                           libpolkit-qt-core-1.so.1.99.0
+libakonadi_next.so.4                  libkcmutils.so.4.7.0                       libpolkit-qt-gui-1.so.1
+libakonadi_next.so.4.7.0              libkcompactdisc.so.4                       libpolkit-qt-gui-1.so.1.99.0
+libakonadiprotocolinternals.so.1      libkcompactdisc.so.4.7.0                   libpoppler-qt4.so.3
+libakonadiprotocolinternals.so.1.6.2  libkde3support.so.4                        libpoppler-qt4.so.3.4.0
+libakonadi-xml.so.4                   libkde3support.so.4.7.0                    libpoppler.so.13
+libakonadi-xml.so.4.7.0               libkdecorations.so.4                       libpoppler.so.13.0.0
+libakregatorinterfaces.so.4           libkdecorations.so.4.7.0                   libpowerdevilcore.so.0
+libakregatorinterfaces.so.4.7.0       libkdecore.so.5                            libpowerdevilcore.so.0.1.0
+libakregatorprivate.so.4              libkdecore.so.5.7.0                        libpowerdevilui.so
+libakregatorprivate.so.4.7.0          libkdefakes.so.5                           libprison.so.0
+libamarokcore.so.1                    libkdefakes.so.5.7.0                       libprison.so.0.0.0
+libamarokcore.so.1.0.0                libkdegames.so.5                           libprocesscore.so.4.7.0.abi1
+libamaroklib.so.1                     libkdegames.so.5.1.0                       libprocesscore.so.4abi1
+libamaroklib.so.1.0.0                 libkdepim-copy.so.4                        libprocessui.so.4
+libamarokocsclient.so.4               libkdepim-copy.so.4.7.0                    libprocessui.so.4.7.0
+libamarokocsclient.so.4.7.0           libkdepimdbusinterfaces.so.4               libproxy
+libamarokpud.so.1                     libkdepimdbusinterfaces.so.4.7.0           libproxy.so.0
+libamarokpud.so.1.0.0                 libkdepim.so.4                             libproxy.so.0.0.0
+libamarok-sqlcollection.so.1          libkdepim.so.4.7.0                         libpspell.so.15
+libamarok-sqlcollection.so.1.0.0      libkdesu.so.5                              libpspell.so.15.1.4
+libamarok-transcoding.so.1            libkdesu.so.5.7.0                          libpth.so.20
+libamarok-transcoding.so.1.0.0        libkdeui.so.5                              libpth.so.20.0.27
+libampache_account_login.so           libkdeui.so.5.7.0                          libpulsecore-1.0.so
+libapt-inst.so.1.3                    libkdewebkit.so.5                          libpulsedsp.so
+libapt-inst.so.1.3.0                  libkdewebkit.so.5.7.0                      libpyglib-2.0-python2.6.so.0
+libapt-pkg.so.4.11                    libkdgantt2.so.0                           libpyglib-2.0-python2.6.so.0.0.0
+libapt-pkg.so.4.11.0                  libkdgantt2.so.0.1.0                       libpyglib-2.0-python2.7.so.0
+libarchive.so.1                       libkdnssd.so.4                             libpyglib-2.0-python2.7.so.0.0.0
+libarchive.so.2                       libkdnssd.so.4.7.0                         libpyglib-gi-2.0-python2.6.so
+libarchive.so.2.8.4                   libkemoticons.so.4                         libpyglib-gi-2.0-python2.6.so.0
+libaspell.so.15                       libkemoticons.so.4.7.0                     libpyglib-gi-2.0-python2.6.so.0.0.0
+libaspell.so.15.1.4                   libkephal.so.4.7.0.abi1                    libpyglib-gi-2.0-python2.7.so
+libasprintf.so.0                      libkephal.so.4abi1                         libpyglib-gi-2.0-python2.7.so.0
+libasprintf.so.0.0.0                  libkerfuffle.so.4                          libpyglib-gi-2.0-python2.7.so.0.0.0
+libattica.so.0                        libkerfuffle.so.4.7.0                      libpython2.7.a
+libattica.so.0.2.2                    libkexiv2.so.10                            libpython2.7.so
+libaudiocdplugins.so.4                libkexiv2.so.10.0.0                        libpython2.7.so.1
+libaudiocdplugins.so.4.7.0            libkfile.so.4                              libpython2.7.so.1.0
+libavc1394.so.0                       libkfile.so.4.7.0                          libqalculate.so.5
+libavc1394.so.0.3.0                   libkfontinst.so.4                          libqalculate.so.5.0.0
+libbfd-2.21.53-system.20110810.so     libkfontinst.so.4.7.0                      libqapt.so.1
+libbind9.so.60                        libkfontinstui.so.4                        libqapt.so.1.2.1
+libbind9.so.60.0.4                    libkfontinstui.so.4.7.0                    libqca.so.2
+libblas                               libkholidays.so.4                          libqca.so.2.0
+libblas.so.3gf                        libkholidays.so.4.7.0                      libqca.so.2.0.3
+libbluedevil.so.1                     libkhotkeysprivate.so.4                    libqgpgme.so.1
+libbluedevil.so.1.9                   libkhotkeysprivate.so.4.7.0                libqgpgme.so.1.0.1
+libbluetooth.so.3                     libkhtml.so.5                              libqgroupwise.so
+libbluetooth.so.3.11.4                libkhtml.so.5.7.0                          libqimageblitz.so.4
+libboost_iostreams.so.1.46.1          libkickoff.so                              libqimageblitz.so.4.0.0
+libboost_program_options.so.1.46.1    libkidletime.so.4                          libqjson.so.0
+libcaca.so.0                          libkidletime.so.4.7.0                      libqjson.so.0.7.1
+libcaca++.so.0                        libkimap.so.4                              libqrencode.so.3
+libcaca.so.0.99.17                    libkimap.so.4.7.0                          libqrencode.so.3.1.1
+libcaca++.so.0.99.17                  libkimpanelruntime.so.0                    libQtGLib-2.0.so.0
+libcalendarsupport.so.4               libkio.so.5                                libQtGLib-2.0.so.0.10.1
+libcalendarsupport.so.4.7.0           libkio.so.5.7.0                            libQtGStreamer-0.10.so.0
+libcanberra-0.28                      libkipi.so.8                               libQtGStreamer-0.10.so.0.10.1
+libcanberra.so.0                      libkipi.so.8.0.0                           libraptor2.so.0
+libcanberra.so.0.2.5                  libkjsapi.so.4                             libraptor2.so.0.0.0
+libcap-ng.so.0                        libkjsapi.so.4.7.0                         librasqal.so.3
+libcap-ng.so.0.0.0                    libkjsembed.so.4                           librasqal.so.3.0.0
+libcdda_interface.so.0                libkjsembed.so.4.7.0                       libraw1394.so.11
+libcdda_interface.so.0.10.2           libkjs.so.4                                libraw1394.so.11.0.1
+libcdda_paranoia.so.0                 libkjs.so.4.7.0                            librdf.so.0
+libcdda_paranoia.so.0.10.2            libkldap.so.4                              librdf.so.0.0.0
+libchromeXvMCPro.so                   libkldap.so.4.7.0                          libreoffice
+libchromeXvMCPro.so.1                 libkleo.so.4                               librom1394.so.0
+libchromeXvMCPro.so.1.0.0             libkleo.so.4.7.0                           librom1394.so.0.3.0
+libchromeXvMC.so                      libkmailprivate.so.4                       librtm.so.4
+libchromeXvMC.so.1                    libkmailprivate.so.4.7.0                   librtm.so.4.7.0
+libchromeXvMC.so.1.0.0                libkmanagesieve.so.4                       libsane.la
+libck-connector.so.0                  libkmanagesieve.so.4.7.0                   libsane.so.1
+libck-connector.so.0.0.0              libkmbox.so.4                              libsane.so.1.0.22
+libcln.so.6                           libkmbox.so.4.7.0                          libsgutils2.so.2
+libcln.so.6.0.2                       libkmediaplayer.so.4                       libsgutils2.so.2.0.0
+libclucene.so.0                       libkmediaplayer.so.4.7.0                   libshout.so.3
+libclucene.so.0.0.0                   libkmime.so.4                              libshout.so.3.2.0
+libcolamd.so.2.7.1                    libkmime.so.4.7.0                          libsigc-2.0.so.0
+libcucul.so.0                         libkmindexreader.so.4                      libsigc-2.0.so.0.0.0
+libcucul++.so.0                       libkmindexreader.so.4.7.0                  libslp.so.1
+libcucul.so.0.99.17                   libknewstuff2.so.4                         libslp.so.1.0.1
+libcucul++.so.0.99.17                 libknewstuff2.so.4.7.0                     libsmbclient.so.0
+libcwidget.so.3                       libknewstuff3.so.4                         libsnmp.so.15
+libcwidget.so.3.0.0                   libknewstuff3.so.4.7.0                     libsnmp.so.15.1.2
+libdaemon.so.0                        libknmclient.so.4                          libsolidcontrolfuture.so
+libdaemon.so.0.5.0                    libknmclient.so.4.7.0                      libsolidcontrolifaces.so.4.7.0.abi2
+libdbusmenu-glib.so.4                 libknminternals.so.4                       libsolidcontrolifaces.so.4abi2
+libdbusmenu-glib.so.4.0.5             libknminternals.so.4.7.0                   libsolidcontrolnm09ifaces.so.4
+libdbusmenu-gtk3.so.4                 libknm_nm.so                               libsolidcontrolnm09ifaces.so.4.7.0
+libdbusmenu-gtk3.so.4.0.5             libknmservice.so.4                         libsolidcontrolnm09.so.4
+libdbusmenu-gtk.so.4                  libknmservice.so.4.7.0                     libsolidcontrolnm09.so.4.7.0
+libdbusmenu-gtk.so.4.0.5              libknmui.so.4                              libsolidcontrol.so.4.7.0.abi2
+libdebconf-kde.so.0                   libknmui.so.4.7.0                          libsolidcontrol.so.4abi2
+libdebconf-kde.so.0.1.0               libknotifyconfig.so.4                      libsolid.so.4
+libdiscid.so.0                        libknotifyconfig.so.4.7.0                  libsolid.so.4.7.0
+libdiscid.so.0.2.1                    libknotifyplugin.so                        libsopranoclient.so.1
+libdjvulibre.so.21                    libkntlm.so.4                              libsopranoclient.so.1.2.0
+libdjvulibre.so.21.3.0                libkntlm.so.4.7.0                          libsopranoindex.so.1
+libdlrestrictions.so.1                libkonq.so.5.7.0.abi1                      libsopranoindex.so.1.1.0
+libdlrestrictions.so.1.0.0            libkonq.so.5abi1                           libsopranoserver.so.1
+libdmtx.so.0                          libkonsoleprivate.so                       libsopranoserver.so.1.2.0
+libdmtx.so.0.0.0                      libkontactinterface.so.4                   libsoprano.so.4
+libdns.so.69                          libkontactinterface.so.4.7.0               libsoprano.so.4.3.0
+libdns.so.69.1.2                      libkontactprivate.so.4                     libsoup-2.4.so.1
+libdolphinprivate.so.4                libkontactprivate.so.4.7.0                 libsoup-2.4.so.1.4.0
+libdolphinprivate.so.4.7.0            libkopeteaddaccountwizard.so.1             libsoup-gnome-2.4.so.1
+libdv.so.4                            libkopeteaddaccountwizard.so.1.0.0         libsoup-gnome-2.4.so.1.4.0
+libdv.so.4.0.3                        libkopetechatwindow_shared.so.1            libspectre.so.1
+libelf-0.152.so                       libkopetechatwindow_shared.so.1.0.0        libspectre.so.1.1.6
+libelf.so.1                           libkopetecontactlist.so.1                  libspeechd.so.2
+libenchant.so.1                       libkopetecontactlist.so.1.0.0              libspeechd.so.2.3.0
+libenchant.so.1.6.0                   libkopeteidentity.so.1                     libstartup-notification-1.so.0
+libept.so.1                           libkopeteidentity.so.1.0.0                 libstartup-notification-1.so.0.0.0
+libept.so.1.0.5                       libkopete_oscar.so.4                       libstreamanalyzer.so.0
+libepub.so.0                          libkopete_oscar.so.4.7.0                   libstreamanalyzer.so.0.7.6
+libepub.so.0.2.1                      libkopete_otr_shared.so.1                  libstreams.so.0
+libev.a                               libkopete_otr_shared.so.1.0.0              libstreams.so.0.7.6
+libevemu.so.1                         libkopeteprivacy.so.1                      libsyndication.so.4
+libevemu.so.1.0.0                     libkopeteprivacy.so.1.0.0                  libsyndication.so.4.7.0
+libeventviews.so.4                    libkopete.so.4                             libsystemsettingsview.so.2
+libeventviews.so.4.7.0                libkopete.so.4.7.0                         libtag-extras.so.1
+libev.so                              libkopetestatusmenu.so.1                   libtag-extras.so.1.0.0
+libev.so.4                            libkopetestatusmenu.so.1.0.0               libtag.so.1
+libev.so.4.0.0                        libkopete_videodevice.so.4                 libtag.so.1.7.0
+libexif.so.12                         libkopete_videodevice.so.4.7.0             libtaskmanager.so.4.7.0.abi2
+libexif.so.12.3.2                     libkorganizer_core.so.4                    libtaskmanager.so.4abi2
+libexiv2.so.10                        libkorganizer_core.so.4.7.0                libtemplateparser.so.4
+libexiv2.so.10.0.1                    libkorganizer_interfaces.so.4              libtemplateparser.so.4.7.0
+libexslt.so.0                         libkorganizer_interfaces.so.4.7.0          libtextcat.so.0
+libexslt.so.0.8.15                    libkorganizerprivate.so.4                  libtextcat.so.0.0.0
+libfakeroot                           libkorganizerprivate.so.4.7.0              libtheoradec.so.1
+libfontenc.so.1                       libkparts.so.4                             libtheoradec.so.1.1.4
+libfontenc.so.1.0.0                   libkparts.so.4.7.0                         libtheoraenc.so.1
+libform.so.5                          libkpgp.so.4                               libtheoraenc.so.1.1.2
+libform.so.5.9                        libkpgp.so.4.7.0                           libtheora.so.0
+libformw.so.5                         libkpimidentities.so.4                     libtheora.so.0.3.10
+libformw.so.5.9                       libkpimidentities.so.4.7.0                 libthreadweaver.so.4
+libframe.so.1                         libkpimtextedit.so.4                       libthreadweaver.so.4.7.0
+libframe.so.1.1.0                     libkpimtextedit.so.4.7.0                   libtic.so.5
+libfribidi.so.0                       libkpimutils.so.4                          libtic.so.5.9
+libfribidi.so.0.3.1                   libkpimutils.so.4.7.0                      libticw.so.5
+libFS.so.6                            libkprintutils.so.4                        libticw.so.5.9
+libFS.so.6.0.0                        libkprintutils.so.4.7.0                    libungif.so.4
+libgadu.so.3                          libkpty.so.4                               libungif.so.4.1
+libgadu.so.3.13.0                     libkpty.so.4.7.0                           libungif.so.4.1.6
+libgconf2-4                           libkresources.so.4                         libuno_cppuhelpergcc3.so.3
+libgconf-2.so.4                       libkresources.so.4.7.0                     libuno_cppu.so.3
+libgconf-2.so.4.1.5                   libkrosscore.so.4                          libuno_purpenvhelpergcc3.so.3
+libgdk-3.so.0                         libkrosscore.so.4.7.0                      libuno_salhelpergcc3.so.3
+libgdk-3.so.0.200.0                   libkscreensaver.so.5                       libuno_sal.so.3
+libgd.so.2                            libkscreensaver.so.5.0.0                   libupower-glib.so.1
+libgd.so.2.0.0                        libksgrd.so.4                              libupower-glib.so.1.0.1
+libGeoIP.so.1                         libksgrd.so.4.7.0                          libusb-0.1.so.4
+libGeoIP.so.1.4.8                     libksieve.so.4                             libusbmuxd.so.1
+libGeoIPUpdate.so.0                   libksieve.so.4.7.0                         libusbmuxd.so.1.0.7
+libGeoIPUpdate.so.0.0.0               libksieveui.so.4                           libutempter.so.0
+libgif.so.4                           libksieveui.so.4.7.0                       libutempter.so.1.1.5
+libgif.so.4.1                         libksignalplotter.so.4                     libutouch-evemu.so.1
+libgif.so.4.1.6                       libksignalplotter.so.4.7.0                 libutouch-evemu.so.1.0.0
+libgirepository-1.0.so.1              libktcore.so.12                            libutouch-frame.so.1
+libgirepository-1.0.so.1.0.0          libktcore.so.12.0.1                        libutouch-frame.so.1.1.0
+libgmp.so.10                          libktexteditor_codesnippets_core.so.0      libutouch-grail.so.1
+libgmp.so.10.0.1                      libktexteditor_codesnippets_core.so.0.0.1  libutouch-grail.so.1.1.0
+libgnome-keyring.so.0                 libktexteditor.so.4                        libvisual-0.4
+libgnome-keyring.so.0.1.1             libktexteditor.so.4.7.0                    libvisual-0.4.so.0
+libgpds.so.0                          libktnef.so.4                              libvisual-0.4.so.0.0.0
+libgpds.so.0.1.0                      libktnef.so.4.7.0                          libwavpack.so.1
+libgpgme-pthread.so.11                libktorrent.so.3                           libwavpack.so.1.1.4
+libgpgme-pthread.so.11.7.0            libktorrent.so.3.0.1                       libwbclient.so.0
+libgpgme++-pthread.so.2               libkunitconversion.so.4                    libweather_ion.so.6
+libgpgme++-pthread.so.2.8.0           libkunitconversion.so.4.7.0                libweather_ion.so.6.0.0
+libgpgme-pth.so.11                    libkunittest.so.4                          libwpd-0.9.so.9
+libgpgme-pth.so.11.7.0                libkunittest.so.4.7.0                      libwpd-0.9.so.9.0.2
+libgpgme++-pth.so.2                   libkwalletbackend.so.4                     libwpd-stream-0.9.so.9
+libgpgme++-pth.so.2.8.0               libkwalletbackend.so.4.7.0                 libwpd-stream-0.9.so.9.0.2
+libgpgme.so.11                        libkwineffects.so.1.0.0.abi2               libwpg-0.2.so.2
+libgpgme.so.11.7.0                    libkwineffects.so.1abi2                    libwpg-0.2.so.2.0.0
+libgpgme++.so.2                       libkwinnvidiahack.so.4                     libwps-0.2.so.2
+libgpgme++.so.2.8.0                   libkwinnvidiahack.so.4.7.0                 libwps-0.2.so.2.0.2
+libgphoto2                            libkworkspace.so.4                         libxapian.so.22
+libgphoto2_port                       libkworkspace.so.4.7.0                     libxapian.so.22.3.0
+libgphoto2_port.so.0                  libkxmlrpcclient.so.4                      libXaw7.so.7
+libgphoto2_port.so.0.8.0              libkxmlrpcclient.so.4.7.0                  libXaw7.so.7.0.0
+libgphoto2.so.2                       libkyahoo.so.1                             libXaw.so.7
+libgphoto2.so.2.4.0                   libkyahoo.so.1.0.0                         libxcb-util.so.0
+libgpm.so.2                           liblapack.so.3gf                           libxcb-util.so.0.0.0
+libgpm.so.2.0.0                       liblastfm.so.0                             libXfont.so.1
+libgpod.so.4                          liblastfm.so.0.3                           libXfont.so.1.4.1
+libgpod.so.4.3.1                      liblastfm.so.0.3.3                         libxkbfile.so.1
+libgpsd.so.0                          liblockfile.so.1                           libxkbfile.so.1.0.2
+libgpsd.so.0.0.0                      liblockfile.so.1.0                         libxml2.so.2
+libgps.so.19                          libloudmouth-1.so.0                        libxml2.so.2.7.8
+libgps.so.19.0.0                      libloudmouth-1.so.0.1.0                    libXmu.so.6
+libgrail.so.1                         libltdl.so.7                               libXmu.so.6.2.0
+libgrail.so.1.1.0                     libltdl.so.7.3.0                           libXmuu.so.1
+libgrantlee_core.so.0                 liblwres.so.60                             libXmuu.so.1.0.0
+libgrantlee_core.so.0.1.7             liblwres.so.60.0.1                         libXpm.so.4
+libgs.so.9                            liblzma.so.2                               libXpm.so.4.11.0
+libgs.so.9.04                         liblzma.so.2.0.0                           libXp.so.6
+libgstapp-0.10.so.0                   libmagic.so.1                              libXp.so.6.2.0
+libgstapp-0.10.so.0.24.0              libmagic.so.1.0.0                          libxslt.so.1
+libgstaudio-0.10.so.0                 libmailcommon.so.4                         libxslt.so.1.1.26
+libgstaudio-0.10.so.0.24.0            libmailcommon.so.4.7.0                     libXtst.so.6
+libgstbase-0.10.so.0                  libmaildir.so.4                            libXtst.so.6.1.0
+libgstbase-0.10.so.0.29.0             libmaildir.so.4.7.0                        libXvMC.so.1
+libgstbasecamerabinsrc-0.10.so.0      libmailtransport.so.4                      libXvMC.so.1.0.0
+libgstbasecamerabinsrc-0.10.so.0.0.0  libmailtransport.so.4.7.0                  libXvMCW.so.1
+libgstcdda-0.10.so.0                  libmeanwhile.so.1                          libXvMCW.so.1.0.0
+libgstcdda-0.10.so.0.24.0             libmeanwhile.so.1.0.2                      libXxf86dga.so.1
+libgstcheck-0.10.so.0                 libmenu.so.5                               libXxf86dga.so.1.0.0
+libgstcheck-0.10.so.0.29.0            libmenu.so.5.9                             libyajl.so.1
+libgstcontroller-0.10.so.0            libmenuw.so.5                              libyajl.so.1.0.12
+libgstcontroller-0.10.so.0.29.0       libmenuw.so.5.9                            libzip.so.1
+libgstdataprotocol-0.10.so.0          libmessagecomposer.so.4                    libzip.so.1.0.0
+libgstdataprotocol-0.10.so.0.29.0     libmessagecomposer.so.4.7.0                linux-boot-probes
+libgstfft-0.10.so.0                   libmessagecore.so.4                        locale
+libgstfft-0.10.so.0.24.0              libmessagecore.so.4.7.0                    lp_solve
+libgstinterfaces-0.10.so.0            libmessagelist.so.4                        man-db
+libgstinterfaces-0.10.so.0.24.0       libmessagelist.so.4.7.0                    memtest86+
+libgstnet-0.10.so.0                   libmessageviewer.so.4                      mime
+libgstnet-0.10.so.0.29.0              libmessageviewer.so.4.7.0                  ModemManager
+libgstnetbuffer-0.10.so.0             libmhash.so.2                              mono
+libgstnetbuffer-0.10.so.0.24.0        libmhash.so.2.0.1                          mozilla
+
+libgstpbutils-0.10.so.0               libmicroblog.so.4                          NetworkManager
+libgstpbutils-0.10.so.0.24.0          libmicroblog.so.4.7.0                      nodejs
+libgstphotography-0.10.so.0           libmolletnetwork.so.4                      ntrack
+libgstphotography-0.10.so.0.0.0       libmolletnetwork.so.4.7.0                  nvidia
+libgstreamer-0.10.so.0                libMonoPosixHelper.so                      obexd
+libgstreamer-0.10.so.0.29.0           libMonoSupportW.so                         odbc
+libgstriff-0.10.so.0                  libmpcdec.so.6                             openssh
+libgstriff-0.10.so.0.24.0             libmpcdec.so.6.1.0                         os-prober
+libgstrtp-0.10.so.0                   libmpc.so.2                                os-probes
+libgstrtp-0.10.so.0.24.0              libmpc.so.2.0.0                            pcmciautils
+libgstrtsp-0.10.so.0                  libmpfr.so.4                               perl
+libgstrtsp-0.10.so.0.24.0             libmpfr.so.4.0.1                           perl5
+libgstsdp-0.10.so.0                   libmsn.so.0.3                              pkgconfig
+libgstsdp-0.10.so.0.24.0              libmsn.so.0.3.0                            pm-utils
+libgsttag-0.10.so.0                   libmtdev.so.1                              policykit-1
+libgsttag-0.10.so.0.24.0              libmtdev.so.1.0.0                          polkit-1
+libgstvideo-0.10.so.0                 libmtp.so.9                                pppd
+libgstvideo-0.10.so.0.24.0            libmtp.so.9.0.0                            ppr
+libgtk-3-0                            libmuonprivate.so.1                        pt_chown
+libgtk-3.so.0                         libmuonprivate.so.1.0.95                   pulse-1.0
+libgtk-3.so.0.200.0                   libmusicbrainz3.so.6                       pulseaudio
+libgwenviewlib.so.4                   libmusicbrainz3.so.6.2.0                   pymodules
+libgwenviewlib.so.4.7.0               libmysqlclient_r.so.16                     pyshared
+libgwsoap.so.4                        libmysqlclient_r.so.16.0.0                 python2.6
+libgwsoap.so.4.7.0                    libmysqlclient.so.16                       python2.7
+libHalf.so.6                          libmysqlclient.so.16.0.0                   python3
+libHalf.so.6.0.0                      libmythes-1.2.so.0                         qt4
+libhpip.so.0                          libmythes-1.2.so.0.0.0                     rpm
+libhpip.so.0.0.1                      libneon-gnutls.so.27                       rsyslog
+libhpmud.so.0                         libneon-gnutls.so.27.2.6                   rtkit
+libhpmud.so.0.0.6                     libnepomukcommon.so                        sane
+libhunspell-1.2.so.0                  libnepomukdatamanagement.so                sasl2
+libhunspell-1.2.so.0.0.0              libnepomukquery.so.4                       soprano
+libhyphen.so.0                        libnepomukquery.so.4.7.0                   ssl
+libhyphen.so.0.2.0                    libnepomuk.so.4                            strigi
+libI810XvMC.so.1                      libnepomuk.so.4.7.0                        sublime-text-2
+libI810XvMC.so.1.0.0                  libnepomuksync.so.4                        sudo
+libibus-qt.so.1                       libnepomuksync.so.4.7.0                    syslinux
+libibus-qt.so.1.3.0                   libnepomukutils.so.4                       tc
+libical.so.0                          libnepomukutils.so.4.7.0                   ubiquity
+libical.so.0.44.0                     libnetsnmpagent.so.15                      udev
+libicalss.so.0                        libnetsnmpagent.so.15.1.2                  udisks
+libicalss.so.0.44.0                   libnetsnmphelpers.so.15                    update-manager
+libicalvcal.so.0                      libnetsnmphelpers.so.15.1.2                update-notifier
+libicalvcal.so.0.44.0                 libnetsnmpmibs.so.15                       upower
+libicudata.so.44                      libnetsnmpmibs.so.15.1.2                   upstart
+libicudata.so.44.2                    libnetsnmp.so.15                           ure
+libicui18n.so.44                      libnetsnmp.so.15.1.2                       utempter
+libicui18n.so.44.2                    libnetsnmptrapd.so.15                      valgrind
+libicuio.so.44                        libnetsnmptrapd.so.15.1.2                  vmware-tools
+libicuio.so.44.2                      libnewt.so.0.52                            X11
+libicule.so.44                        libnewt.so.0.52.11                         x86_64-linux-gnu
+libicule.so.44.2                      libnfnetlink.so.0                          xorg
+libiculx.so.44                        libnfnetlink.so.0.2.0                      xvmcconfig-standard
+libiculx.so.44.2                      libnl-cli.so.3
+(venv_som)jcole@ubuntu:/usr/lib$ 
+(venv_som)jcole@ubuntu:/usr/lib$ 
+(venv_som)jcole@ubuntu:/usr/lib$ 
+(venv_som)jcole@ubuntu:/usr/lib$ cd ..
+(venv_som)jcole@ubuntu:/usr$ ls
+bin  games  include  lib  lib32  local  sbin  share  src
+(venv_som)jcole@ubuntu:/usr$ cd ..
+(venv_som)jcole@ubuntu:/$ ls
+bin   cdrom  etc   initrd.img  lib64       media  opt   root  sbin     srv  tmp  var
+boot  dev    home  lib         lost+found  mnt    proc  run   selinux  sys  usr  vmlinuz
+(venv_som)jcole@ubuntu:/$ 
+(venv_som)jcole@ubuntu:/$ ls
+bin   cdrom  etc   initrd.img  lib64       media  opt   root  sbin     srv  tmp  var
+boot  dev    home  lib         lost+found  mnt    proc  run   selinux  sys  usr  vmlinuz
+(venv_som)jcole@ubuntu:/$ 
+(venv_som)jcole@ubuntu:/$ 
+(venv_som)jcole@ubuntu:/$ 
+(venv_som)jcole@ubuntu:/$ cd ~/code/
+expressjs/ som/       
+(venv_som)jcole@ubuntu:/$ cd ~/code/
+expressjs/ som/       
+(venv_som)jcole@ubuntu:/$ cd ~/code/som/
+(venv_som)jcole@ubuntu:~/code/som$ ls
+d4d  d4d_feb_19_2013.zip  idea_mapper.py  ideaoverflow-hackny  venv.bak  venv_chase
+(venv_som)jcole@ubuntu:~/code/som$ ls
+d4d  d4d_feb_19_2013.zip  idea_mapper.py  ideaoverflow-hackny  venv.bak  venv_chase
+(venv_som)jcole@ubuntu:~/code/som$ 
+(venv_som)jcole@ubuntu:~/code/som$ 
+(venv_som)jcole@ubuntu:~/code/som$ python
+Python 2.7.2+ (default, Jul 20 2012, 22:15:08) 
+[GCC 4.6.1] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import conceptnet
+>>> 
+(venv_som)jcole@ubuntu:~/code/som$ deactivate
+jcole@ubuntu:~/code/som$ python
+Python 2.7.2+ (default, Jul 20 2012, 22:15:08) 
+[GCC 4.6.1] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import conceptnet
+>>> import d4d
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ImportError: No module named d4d
+>>> 
+jcole@ubuntu:~/code/som$ ls
+d4d  d4d_feb_19_2013.zip  idea_mapper.py  ideaoverflow-hackny  venv.bak  venv_chase
+jcole@ubuntu:~/code/som$ 
+jcole@ubuntu:~/code/som$ 
+jcole@ubuntu:~/code/som$ cd d4d/
+jcole@ubuntu:~/code/som/d4d$ ls
+assertion_data  d4dcc.py   d4d.pyc  Divisi For Dummies Overview.docx  Samsung_CC.names               svd_view_doc.txt
+cmd.py          d4dcc.pyc  d4d.wpr  misc_examples                     Samsung_CC_Without_CN4.coords
+d4dcc_old.py    d4d.py     d4d.wpu  Samsung_CC.coords                 Samsung_CC_Without_CN4.names
+jcole@ubuntu:~/code/som/d4d$ python
+Python 2.7.2+ (default, Jul 20 2012, 22:15:08) 
+[GCC 4.6.1] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import d4d
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "d4d.py", line 153, in <module>
+    en = Language.get('en') #requires django 1.3
+  File "/usr/local/lib/python2.7/dist-packages/conceptnet/corpus/models.py", line 105, in get
+    return get_lang(id)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 27, in wrapper
+    result = func(*args)
+  File "/usr/local/lib/python2.7/dist-packages/conceptnet/corpus/models.py", line 67, in get_lang
+    return Language.objects.get(id=lang_code)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/manager.py", line 131, in get
+    return self.get_query_set().get(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/query.py", line 361, in get
+    num = len(clone)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/query.py", line 85, in __len__
+    self._result_cache = list(self.iterator())
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/query.py", line 291, in iterator
+    for row in compiler.results_iter():
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/sql/compiler.py", line 763, in results_iter
+    for rows in self.execute_sql(MULTI):
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/sql/compiler.py", line 808, in execute_sql
+    sql, params = self.as_sql()
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/sql/compiler.py", line 71, in as_sql
+    out_cols = self.get_columns(with_col_aliases)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/sql/compiler.py", line 218, in get_columns
+    col_aliases)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/sql/compiler.py", line 306, in get_default_columns
+    r = '%s.%s' % (qn(alias), qn2(field.column))
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/sql/compiler.py", line 49, in quote_name_unless_alias
+    r = self.connection.ops.quote_name(name)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/backends/dummy/base.py", line 15, in complain
+    raise ImproperlyConfigured("settings.DATABASES is improperly configured. "
+django.core.exceptions.ImproperlyConfigured: settings.DATABASES is improperly configured. Please supply the ENGINE value. Check settings documentation for more details.
+>>> 
+jcole@ubuntu:~/code/som/d4d$ pip freeze
+Warning: cannot find svn location for distribute==0.6.16dev-r0
+ConceptNet==4.0.1
+Divisi2==2.2.5
+Django==1.4.1
+GnuPGInterface==0.3.2
+PIL==1.1.7
+apt-xapian-index==0.44
+apturl==0.5ubuntu1
+boto==2.8.0
+chardet==2.0.1
+command-not-found==0.2.44
+csc-pysparse==1.1.1.4
+csc-utils==0.6.7
+## FIXME: could not find svn URL in dependency_links for this package:
+distribute==0.6.16dev-r0
+dj-database-url==0.2.1
+django-storages==1.1.7
+gunicorn==0.17.2
+httplib2==0.7.1
+jockey==0.9.4
+keyring==0.6.2
+launchpadlib==1.9.8
+lazr.restfulclient==0.11.2
+lazr.uri==1.0.2
+networkx==1.7
+numpy==1.5.1
+nvidia-common==0.0.0
+oauth==1.0.1
+pexpect==2.3
+pycrypto==2.3
+pycups==1.9.58
+pycurl==7.19.0
+pysmbc==1.0.10
+python-apt==0.8.0ubuntu9
+python-debian==0.1.20ubuntu2
+pyudev==0.12
+pyxdg==0.19
+simplejson==3.1.2
+simplenlp==1.1.2
+synaptiks==0.7.0
+ufw==0.30.1-2ubuntu1
+unattended-upgrades==0.1
+usb-creator==0.2.23
+virtualenv==1.6.4
+wadllib==1.2.0
+wsgiref==0.1.2
+xkit==0.0.0
+zope.interface==3.6.1
+jcole@ubuntu:~/code/som/d4d$ ls /usr/lib/py
+pymodules/ pyshared/  python2.6/ python2.7/ python3/   
+jcole@ubuntu:~/code/som/d4d$ ls /usr/lib/py
+pymodules/ pyshared/  python2.6/ python2.7/ python3/   
+jcole@ubuntu:~/code/som/d4d$ ls /usr/lib/python2.7/ | grep django
+jcole@ubuntu:~/code/som/d4d$ python
+Python 2.7.2+ (default, Jul 20 2012, 22:15:08) 
+[GCC 4.6.1] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 
+jcole@ubuntu:~/code/som/d4d$ ls
+assertion_data  d4dcc.py   d4d.pyc  Divisi For Dummies Overview.docx  Samsung_CC.names               svd_view_doc.txt
+cmd.py          d4dcc.pyc  d4d.wpr  misc_examples                     Samsung_CC_Without_CN4.coords
+d4dcc_old.py    d4d.py     d4d.wpu  Samsung_CC.coords                 Samsung_CC_Without_CN4.names
+jcole@ubuntu:~/code/som/d4d$ 
+jcole@ubuntu:~/code/som/d4d$ 
+jcole@ubuntu:~/code/som/d4d$ 
+jcole@ubuntu:~/code/som/d4d$ ls
+assertion_data  d4dcc.py   d4d.pyc  Divisi For Dummies Overview.docx  Samsung_CC.names               svd_view_doc.txt
+cmd.py          d4dcc.pyc  d4d.wpr  misc_examples                     Samsung_CC_Without_CN4.coords
+d4dcc_old.py    d4d.py     d4d.wpu  Samsung_CC.coords                 Samsung_CC_Without_CN4.names
+jcole@ubuntu:~/code/som/d4d$ 
+jcole@ubuntu:~/code/som/d4d$ 
+jcole@ubuntu:~/code/som/d4d$ 
+jcole@ubuntu:~/code/som/d4d$ ls
+assertion_data  d4dcc.py   d4d.pyc  Divisi For Dummies Overview.docx  Samsung_CC.names               svd_view_doc.txt
+cmd.py          d4dcc.pyc  d4d.wpr  misc_examples                     Samsung_CC_Without_CN4.coords
+d4dcc_old.py    d4d.py     d4d.wpu  Samsung_CC.coords                 Samsung_CC_Without_CN4.names
+jcole@ubuntu:~/code/som/d4d$ 
+jcole@ubuntu:~/code/som/d4d$ 
+jcole@ubuntu:~/code/som/d4d$ 
+jcole@ubuntu:~/code/som/d4d$ cd misc_examples/
+jcole@ubuntu:~/code/som/d4d/misc_examples$ ls
+d4dbooks.py  d4ddogs.py
+jcole@ubuntu:~/code/som/d4d/misc_examples$ cd ..
+jcole@ubuntu:~/code/som/d4d$ cd ..
+jcole@ubuntu:~/code/som$ ls
+d4d  d4d_feb_19_2013.zip  idea_mapper.py  ideaoverflow-hackny  venv_chase  venv_som
+jcole@ubuntu:~/code/som$ 
+jcole@ubuntu:~/code/som$ 
+jcole@ubuntu:~/code/som$ 
+jcole@ubuntu:~/code/som$ . venv_som/bin/activate
+(venv_som)jcole@ubuntu:~/code/som$ pip install Django=1.3.7
+Exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/pip/basecommand.py", line 126, in main
+    self.run(options, args)
+  File "/usr/lib/python2.7/dist-packages/pip/commands/install.py", line 195, in run
+    InstallRequirement.from_line(name, None))
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 98, in from_line
+    return cls(req, comes_from, url=url)
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 38, in __init__
+    req = pkg_resources.Requirement.parse(req)
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 2548, in parse
+    reqs = list(parse_requirements(s))
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 2473, in parse_requirements
+    line, p, specs = scan_list(VERSION,LINE_END,line,p,(1,2),"version spec")
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 2441, in scan_list
+    raise ValueError("Expected "+item_name+" in",line,"at",line[p:])
+ValueError: ('Expected version spec in', 'Django=1.3.7', 'at', '=1.3.7')
+
+Storing complete log in /home/jcole/.pip/pip.log
+(venv_som)jcole@ubuntu:~/code/som$ ^C
+(venv_som)jcole@ubuntu:~/code/som$ ^C
+(venv_som)jcole@ubuntu:~/code/som$ pip install Django==1.3.7
+Downloading/unpacking Django==1.3.7
+  Downloading Django-1.3.7.tar.gz (6.5Mb): 6.5Mb downloaded
+  Running setup.py egg_info for package Django
+    
+Installing collected packages: Django
+  Found existing installation: Django 1.4.1
+    Uninstalling Django:
+Exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/pip/basecommand.py", line 126, in main
+    self.run(options, args)
+  File "/usr/lib/python2.7/dist-packages/pip/commands/install.py", line 228, in run
+    requirement_set.install(install_options, global_options)
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 1089, in install
+    requirement.uninstall(auto_confirm=True)
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 476, in uninstall
+    paths_to_remove.remove(auto_confirm)
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 1391, in remove
+    renames(path, new_path)
+  File "/usr/lib/python2.7/dist-packages/pip/util.py", line 248, in renames
+    shutil.move(old, new)
+  File "/usr/lib/python2.7/shutil.py", line 299, in move
+    os.unlink(src)
+OSError: [Errno 13] Permission denied: '/usr/local/bin/django-admin.py'
+
+Storing complete log in /home/jcole/.pip/pip.log
+(venv_som)jcole@ubuntu:~/code/som$ sudo pip install Django==1.3.7
+[sudo] password for jcole: 
+Downloading/unpacking Django==1.3.7
+  Running setup.py egg_info for package Django
+    
+Installing collected packages: Django
+  Found existing installation: Django 1.4.1
+    Uninstalling Django:
+      Successfully uninstalled Django
+  Running setup.py install for Django
+    changing mode of build/scripts-2.7/django-admin.py from 644 to 755
+    
+    changing mode of /usr/local/bin/django-admin.py to 755
+Successfully installed Django
+Cleaning up...
+(venv_som)jcole@ubuntu:~/code/som$ pip freeze
+Warning: cannot find svn location for distribute==0.6.16dev-r0
+ConceptNet==4.0.1
+Divisi2==2.2.5
+Django==1.3.7
+GnuPGInterface==0.3.2
+PIL==1.1.7
+apt-xapian-index==0.44
+apturl==0.5ubuntu1
+boto==2.8.0
+chardet==2.0.1
+command-not-found==0.2.44
+csc-pysparse==1.1.1.4
+csc-utils==0.6.7
+## FIXME: could not find svn URL in dependency_links for this package:
+distribute==0.6.16dev-r0
+dj-database-url==0.2.1
+django-storages==1.1.7
+gunicorn==0.17.2
+httplib2==0.7.1
+jockey==0.9.4
+keyring==0.6.2
+launchpadlib==1.9.8
+lazr.restfulclient==0.11.2
+lazr.uri==1.0.2
+networkx==1.7
+numpy==1.5.1
+nvidia-common==0.0.0
+oauth==1.0.1
+pexpect==2.3
+pycrypto==2.3
+pycups==1.9.58
+pycurl==7.19.0
+pysmbc==1.0.10
+python-apt==0.8.0ubuntu9
+python-debian==0.1.20ubuntu2
+pyudev==0.12
+pyxdg==0.19
+simplejson==3.1.2
+simplenlp==1.1.2
+synaptiks==0.7.0
+ufw==0.30.1-2ubuntu1
+unattended-upgrades==0.1
+usb-creator==0.2.23
+virtualenv==1.6.4
+wadllib==1.2.0
+wsgiref==0.1.2
+xkit==0.0.0
+zope.interface==3.6.1
+(venv_som)jcole@ubuntu:~/code/som$ ls
+d4d  d4d_feb_19_2013.zip  idea_mapper.py  ideaoverflow-hackny  venv_chase  venv_som
+(venv_som)jcole@ubuntu:~/code/som$ 
+(venv_som)jcole@ubuntu:~/code/som$ 
+(venv_som)jcole@ubuntu:~/code/som$ 
+(venv_som)jcole@ubuntu:~/code/som$ cd d4d/
+(venv_som)jcole@ubuntu:~/code/som/d4d$ ls
+assertion_data  d4dcc.py   d4d.pyc  Divisi For Dummies Overview.docx  Samsung_CC.names               svd_view_doc.txt
+cmd.py          d4dcc.pyc  d4d.wpr  misc_examples                     Samsung_CC_Without_CN4.coords
+d4dcc_old.py    d4d.py     d4d.wpu  Samsung_CC.coords                 Samsung_CC_Without_CN4.names
+(venv_som)jcole@ubuntu:~/code/som/d4d$ 
+(venv_som)jcole@ubuntu:~/code/som/d4d$ 
+(venv_som)jcole@ubuntu:~/code/som/d4d$ python d4d
+d4dcc_old.py  d4dcc.py      d4dcc.pyc     d4d.py        d4d.pyc       
+(venv_som)jcole@ubuntu:~/code/som/d4d$ python d4d
+d4dcc_old.py  d4dcc.py      d4dcc.pyc     d4d.py        d4d.pyc       
+(venv_som)jcole@ubuntu:~/code/som/d4d$ python
+Python 2.7.2+ (default, Jul 20 2012, 22:15:08) 
+[GCC 4.6.1] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import d4d
+principal_component_count=11
+d4d.py loaded
+>>> d4d.en_nl.extract_concepts("this is a string")
+[u'string']
+>>> 
+(venv_som)jcole@ubuntu:~/code/som/d4d$ 
+
