@@ -68,6 +68,8 @@ def how_related_are_concept_lists(concept_list1, concept_list2):
 
 		Todo: machine learning, figure out what are good indicators
 
+		Todo: transitive relations
+
 	"""
 
 	#return sum([3**(10*max(how_related_are(c1, c2)-.8,0)) for c1 in concept_list1 for c2 in concept_list2])
@@ -78,8 +80,8 @@ def how_related_are_concept_lists(concept_list1, concept_list2):
 
 #	return sum(sorted(how_related_are(c1, c2) for c1 in concept_list1 for c2 in concept_list2)
 
-	maxVs=[0,0,0]
-	maxCs=[('',''),('',''),('','')]
+	maxVs=[0,0,0,0,0]
+	maxCs=[('',''),('',''),('',''),('',''),('','')]
 	
 	for c1 in concept_list1:
 		for c2 in concept_list2:
@@ -121,7 +123,6 @@ if __name__ == '__main__':
 	print 'start'
 	#print getRelatedIdeas('eeg scrolling')
 	printRelatedIdeas('eeg scrolling')
-
 
 
 
