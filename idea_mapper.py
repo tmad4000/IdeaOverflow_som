@@ -87,10 +87,12 @@ def how_related_are_concept_lists(concept_list1, concept_list2):
 		for c2 in concept_list2:
 			r=how_related_are(c1, c2)
 			if r>maxVs[0]:
-				maxVs.insert(0,r)
-				maxCs.insert(0,(c1,c2))
-				maxVs.pop()
-				maxCs.pop()
+				maxVs[0] = r
+				#maxVs.insert(0,r)
+				#maxCs.insert(0,(c1,c2))
+				#maxVs.pop()
+				#maxCs.pop()
+				maxVs.sort()
 
 	#print maxCs
 	return sum(maxVs)
