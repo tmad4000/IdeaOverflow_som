@@ -52,7 +52,7 @@ def getRelatedIdeas(qidea):
 		(id, idea, concept_list) = idea_entry
 		relatedness.append((idea, how_related_are_concept_lists(qconcept_list, concept_list)))
 
-	return sorted(relatedness,key=lambda idea_entry:-idea_entry[1])[0:20]
+	return sorted(relatedness,key=lambda idea_entry:-idea_entry[1][0])[0:20]
 
 
 def how_related_are_concept_lists(concept_list1, concept_list2):
@@ -80,6 +80,8 @@ def how_related_are_concept_lists(concept_list1, concept_list2):
 
 #	return sum(sorted(how_related_are(c1, c2) for c1 in concept_list1 for c2 in concept_list2)
 
+	"""
+	#top 5 matches
 	maxVs=[0,0,0,0,0]
 	maxCs=[('',''),('',''),('',''),('',''),('','')]
 	
@@ -96,7 +98,27 @@ def how_related_are_concept_lists(concept_list1, concept_list2):
 
 	#print maxCs
 	return sum(maxVs)
+	"""
+
+	#top 5 matches -- no repeats
+	maxVs=[0,0,0,0,0]
+	maxCs=[('',''),('',''),('',''),('',''),('','')]
 	
+	for c1 in concept_list1:
+		for c2 in concept_list2:
+			r=how_related_are(c1, c2)
+			if r>maxVs[0]:
+				maxVs[0] = r
+				#maxVs.insert(0,r)
+				maxCs[0] = (c1,c2)
+				#maxVs.pop()
+				#maxCs.pop()
+				maxVs.sort()
+				maxCs.sort()
+
+	#print maxCs
+	return (sum(maxVs),maxCs)
+
 
 	"""
 	for c1 in concept_list1:
@@ -124,8 +146,11 @@ def printRelatedIdeas(qidea):
 if __name__ == '__main__':
 	print 'start'
 	#print getRelatedIdeas('eeg scrolling')
-	printRelatedIdeas('eeg scrolling')
+	printRelatedIdeas('app that tells you what is cook')
 
+q='app that suggests what you should cook'
+print q
+printRelatedIdeas(q)
 
 
 
