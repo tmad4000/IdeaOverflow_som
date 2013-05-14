@@ -1,0 +1,224 @@
+TITLE: Workflow sharing
+DESCRIPTION: Take the workflows of top students and make or sell complete sets of customized materials to help other people adopt the workflows of the super productive people.
+MORE: start up idea is to take the workflows of top students and make/sell complete sets of customize materials to help other people adopt the workflows of the super productive people.I think that that's half the battle, getting into the right life-rhythm. I bet for each stereotype of person, you can find some sort of optimize workflow and then you go and get the workflow kit for the type of person you are like are you like riley or (racks brains) my friend jenny or like cj whose system do you use well fine the person you learn like you could even make "learn like riley" or “learn like a thiel fellow” or “learn like a harvard student” “or _insert child prodigy here_” Example workflow “take a normal sheet of paper fold it hamburger style but then instead of folding it all the way to symmetry, give a quarter inch gap between the two folds then with the fold pointing to the right, fold it top-to-bottom 3 times unfold then write terms on outer flap, definitions on inner flap fold over, repeat IT'S HAPPY. I've done like 264 defines in 3 hours but actually a lot of perceived inefficiency or  failure /does/ come from shitty workflows once I have a system set up, the stuff practically teaches itself i'm just starting to hack school coursenotes: ocw formatting: latex killer ppts: magic markers THE LIST GOES ON.” In parallel, as college students, we’re  SITTING ON GOLD.(e.g.  my friends coursenotes/annotated copy of Poems Poets Poetry is a GOLDMINE. like she should just republish the darn anthology with her notes. http://www.scotthyoung.com/blog/ makes his business off of this i want the workflow of someone super geniusly good - Jacob (and Riley)
+PROBLEM: People aren’t productive.
+SOLUTION: Share workflows of productive people.
+TECHNOLOGY: 
+TAGS: ~Jacob
+
+TITLE: MedTime
+DESCRIPTION: Track when people actually take their meds
+MORE: what if you used an app to track when people actually /do/ take their meds
+this is absolutely what we should be thinking about
+there exist a number of drugs for which the main and important factor is the minimum blood level concentration is the important part
+among these are birth control, seizure meds, beta-blockers and a whole bunch of other things
+and you have to take them at the same time every day because you need to maintain minimum effective concentration
+but, excepting beta-blockers, having a concentration in excess, up to about 3x the normal does, is not something that will hurt you
+so, what would be cooler than reminding you to take your meds when you tend to sit down and eat dinner
+is an app that analyzes when you actually do take your meds, and then suggests custom dosages based on your schedule
+custom blister packs are actually not that hard, it's something that's done a lot for people who are on oral chemo and want to take more on the weekends because they have to work during the week
+it's not something that's anywhere outside of the realm of physicians to prescribe, in fact, its actually in their best interest
+PROBLEM: People don’t take their meds on schedule.
+SOLUTION: Track when people actually take their meds, and remind them.
+TECHNOLOGY: 
+TAGS: ~Riley 
+
+TITLE: Pitch-based scrolling
+DESCRIPTION: Use voice to scroll.
+MORE: Pitch-based scrolling - e.g. when you sing middle C, the document jumps to 50% mark. natural tool for voice recognition users/RSI/paralyzed patients
+PROBLEM: People who are paralyzed can’t scroll.
+SOLUTION: Use pitch to scroll.
+TECHNOLOGY: 
+TAGS: ~Jacob
+
+TITLE: EEG-based Slumping Detector
+DESCRIPTION: Monitor posture and help correct it.
+MORE: detect the pattern of brain activity that correlates with slumping / program that alerts me as is my posture begins to deteriorate so that I could correct it.. Could also just tells you to go to sleep. Helps people recover more quickly from RSI/carpal tunnel. Has interesting neuro/psych implications if it works as well. Would use Emotiv headset
+PROBLEM: Slumping, bad posture.
+SOLUTION: Monitor posture and help correct it.
+TECHNOLOGY: EEG
+TAGS: ~Jacob
+
+TITLE: WorldThroughYourEyes
+DESCRIPTION: Track where a person’s eyes are focusing, and analyze the effects on their lives.
+MORE: What if you could make an app for Google Glasses or similar that follows a person's eyes and then and tracks where they are focusing. This way, you could  compare how different people focus differently, and analyze what that does to their lives. I also imagine that you could you could put on glasses yourself (or watch a screen), and then see the world through another person's eyes.
+PROBLEM: People want to see the world differently.
+SOLUTION: Track where a person’s eyes are focusing.
+TECHNOLOGY: Google Glasses
+TAGS: ~Jacob
+
+TITLE: InstaBoxSite
+DESCRIPTION: Build an easy to modify "suggestion box" framework anyone can use to quickly build a website off that mold. 
+MORE: platform to build: generalized, easy to modify "suggestion box" framework anyone can use to quickly build a website off that mold.  All of following sites and countless more are based on fundamentally the same idea of a “comments box: isawyou stackoverflow forums reddit fml formspring ideaoverflow.tk / hackathonprojects.tk suggestion box/politicalprogressbar ifiwereanmitstudent.tk tumblr twitter facebook wall
+In parallel, I am able to protoype many of the websites I build these days with what is basically a google doc. Why not build a google doc with slightly more functionality that truly allows me to prototype these tools? Check out http://mitdocs.tk/ to see the potential of this. Relatedly, way for people to make a homepage as easily as they can make a google doc -- consider http://adamchu.tk/, and http://minimalisthomepages.tk/
+PROBLEM: Many websites use the same kind of suggestion box.
+SOLUTION: Make a framework for suggestion boxes.
+TECHNOLOGY:  
+TAGS: ~Jacob
+
+TITLE: virtual reality game with 3d-goggles in swimming pool.
+DESCRIPTION: virtual reality game with 3d-goggles in swimming pool or indoor skydiving arena
+MORE: virtual reality game with 3d-goggles in swimming pool. Or indoor skydiving arena that projects a zooming in Google Earth onto the floor below. Would be like <http://www.youtube.com/watch?v=gHo2eEVSqao> except with actual indoor skydiving than. Since while you're at terminal velocity you experience no toleration, this would be indistinguishable from actual skydiving (sans the initial drop), especially if you did this with virtual reality goggles. ~jcole@mit.edu
+PROBLEM:
+SOLUTION: 
+TECHNOLOGY: 3-D goggles
+TAGS: ~Jacob
+
+TITLE: Index card sharing
+DESCRIPTION: Organize and share your thoughts by writing them concisely and linking them together.
+MORE: A good way to organize your thoughts is to write them down concisely. An index card seems like a good length for a unit of thought: longer than a quote or decontextualized summary, shorter than a story or lesson. Index cards seem a good way to transmit thoughts: it is easy to learn information presented in bite-sized chunks, each centered around some principle you can easily remember. The title of the card can act as a "slogan" for the principle.
+I am inspired by Trefethen's Index Cards: one mathematician wrote down his thoughts on science, education, politics, intelligence, etc. on ~350 index cards over a period of 40 years and published it as a book. (http://books.google.com/books/about/Trefethen_s_Index_Cards.html?id=hJT0tgAACAAJ)
+Minsky's Society of Mind also strikes me as written in a similar way: while a page is more than an index card, the fact that each section is no more than a page has a focusing effect on the reader.
+There are two parts to this project: allowing the user to create a system of cards, and then facilitating sharing.
+Each index card has limited space but allows multimedia (for instance, putting in a simple picture/diagram as a symbol). You can hashtag index cards, search for others' cards on similar topics, rate cards, provide links, and make "connections" between different cards (and possibly specify the kind of connection, for instance hierarchical), much like a semantic net. This gives a way to visualize someone's thoughts (and almost "surf" their thoughts, in a way). I might have some good ideas which I write as a linear sequence of blog posts---but if I write them as index cards instead, this would force me to crystallize my ideas more, and allow them to be connected in a nonlinear fashion. Some possible uses: A card could be a quote, and then a anecdote around it. I could make one index card for every book I read, for instance---then anytime the book comes up in conversation I could pull up my index card on the phone and know exactly the thoughts I have about it, and be able to talk about it. (In fact, if I write up cards on a variety of topics, they could almost be a cheat sheet for conversation. If you had a repertoire of cards related to topics important to you, then you needn't grope for words, for instance, if someone asks about an aspect of your work. In fact, maybe they could check out your cards first, and the conversation could immediately proceed to something new!) I could use it for academics: a card could be a Theorem or Principle X, and contain the information I would need if, say, I had to give a talk on it on short notice.
+PROBLEM: People’s thoughts are messy.
+SOLUTION: Write them down on virtual index cards and organize them.
+TECHNOLOGY: 
+TAGS: ~Holden, #organization
+
+TITLE: Thoughtstream tool
+DESCRIPTION: Make a central platform for thoughtstreaming.
+MORE: Make a central platform that integrates status messages, facebook posts blog posts, favorite quotes, and liked songs -- in other words, a platform for thoughtstreaming. Relates to many earlier ideas ~jcole@mit.edu [I was thinking about this. At the end of the day I want to look at all my writing activity (fb, reddit, chat), and choose to (or automatically) add things I’ve written into my thought database. That way I can tag thoughts as I write, and not have to go back and search for them, or copy/paste in the moment ~ cj@cortexel.us ]
+PROBLEM: People have ideas that they don’t record.
+SOLUTION: Make a central platform for thoughtstreaming.
+TECHNOLOGY: 
+TAGS: ~Jacob
+
+TITLE: Flow Me
+DESCRIPTION: Suggest rhymes and alliterations as you type.
+MORE: Flow Me – Tool for making freestyling/rhyme/poetry unfairly easy. Suggests rhymes and alliterations as you type. Goal: to empower those with good messages and no writing skills. ~cj@cortexel.us #poetry #nlp #creativity #writing (Carl: check out http://tranquillpoet.com/ for inspiration!   Thank you!! That is awesome! This is a really elegant incarnation of the idea! Already getting a bunch of new ideas. Here are the beginnings of mine: http://cortexel.us/flow )
+PROBLEM: People writing poems can’t think of rhymes.
+SOLUTION: Suggest rhymes and alliterations as you type.
+TECHNOLOGY: 
+TAGS: ~CJ
+
+TITLE: DeviceSymphony
+DESCRIPTION: a mobile or Web app that plays the same note you are singing
+MORE: mobile app/Web app that plays the same note you are singing, or plays harmonics to the note you’re playing. This way, you could put all your mobile devices out on a table and sing and be accompanied by a whole orchestra!
+PROBLEM:
+SOLUTION: 
+TECHNOLOGY: 
+TAGS: ~Jacob
+
+TITLE: Fridgey
+DESCRIPTION: Gives recipes based on what you have in your fridge.
+MORE:  Scavenger Recipe App (aka Fridgey!) -- Enter what ingredients are present in your refrigerator, and it looks up possible recipes that include the ingredients entered, ranked by ratings and difficulty to make, for those days where you have a bunch of stuff in the fridge, but nothing to eat. This app can also log and track what ingredients you have available, so you do not have to enter your fridge inventory every time. A broke college student’s oasis. ~carlton.stafford@gmail.com  #<->FoodMom 
+Comments:
+*Cool! They are definitely similar, but not the same, for one automatically orders ingredients you do not have, and the other shows you what you can make with what you do have. Combine them possibly?
+*Question: Would ‘method of preparation’ be a worthy sub-category for the application? In other words, "Recipes that require baking", "Recipes to be prepared on a skillet." Or.. even better, “select the appliances/cooking materials accessible to you” (Can you suggest a less wordy way of saying this?) I am envisioning this in the form of a checklist. - acousticcole@gmail.com
+*A checklist, or perhaps a filter interface, where you check appliances available, and it filters out options that would not work. That may be a little easier. carlton.stafford@gmail.com
+http://www.instantfundas.com/2010/08/15-websites-to-find-recipes-by.html <- it exists.
+PROBLEM: You have a bunch of stuff in the fridge, but nothing to eat. 
+SOLUTION: Gives recipes based on what you have in your fridge.
+TECHNOLOGY:
+TAGS: ~Carlton
+
+TITLE: Build eyetracking heatmap from laptop webcam
+DESCRIPTION: Build eyetracking heatmap from laptop webcam to evaluate how you read websites.
+MORE: Build eyetracking heatmap from laptop webcam -- useful for evaluating how you read different websites, self-tracking/optimizing, and evaluating websites you build. You could make a script that lets you compare different people’s reading styles and evaluate the eye movement patterns of master readers. Also for online chess you could track eye movement patterns of novices vs masters as part of the coaching -- this has been studied extensively. #cv ~hbedri@mit.edu  ~jcole@mit.edu
+PROBLEM:
+SOLUTION:
+TECHNOLOGY: eyetracking, webcam
+TAGS: ~hbedri, ~Jacob
+
+TITLE: Google docs optimized for instant web publishing
+DESCRIPTION: Google docs optimized for instant web publishing
+MORE: Google docs optimized for instant web publishing #idea #good #lowhangingfruit ~jcole@mit.edu. An important facet is to combine with easy-to-remember domains like .tk. I was reinspired in the direction of this project after a resounding success building a collaborative doc, http://6034bonus.tk, for my AI class final notes yesterday; Google docs are great because they're such a fast way to prototype so many web ideas. See also http://mitdocs.tk/ and derivatives. I wish they just created pages that were a bit more... web 2.0-y that were a pleasure to view as well as edit. Also, I wish you could do align left and align right on the right and left-hand sides of the same line. This is, I feel, the basis for an entirely new creative outlet. Is anybody who is good with node.js want to experiment with sharejs maybe? <http://sharejs.org/>? Note: doing so would be the stepping stone into a whole, tightly connected bunch of projects to which I've given much thought and with which I am completely willing to help.  #<->Way to track traffic on Google Docs/quick way to a
+ssign a google doc to a .tk domain
+PROBLEM:
+SOLUTION:
+TECHNOLOGY:
+TAGS: ~Jacob
+
+TITLE: Google doc tools
+DESCRIPTION: Track traffic on Google Docs and quickly assign a google doc to a .tk domain.
+MORE: Way to track traffic on Google Docs/quick way to assign a google doc to a .tk domain #<->Google docs optimized for instant web publishing ~jcole@mit.edu
+PROBLEM:
+SOLUTION:
+TECHNOLOGY:
+TAGS: ~Jacob
+
+TITLE: Emergency Pizza Button app
+DESCRIPTION: One-click pizza ordering via a big red button
+MORE: Emergency Pizza Button app -- One click pizza ordering via a big red button, modeled after the MIT east campus emergency pizza button.  Relatedly, I want to make “Push a button, get a cookie” app for Insomnia Cookies. ~jcole@mit.edu #active
+PROBLEM: Ordering pizza takes time.
+SOLUTION: One-click pizza ordering
+TECHNOLOGY:
+TAGS: ~Jacob
+
+TITLE: PhotoQuote
+DESCRIPTION: Photograph a quote, find the quote online, and record it.
+MORE: PhotoQuote -- app that lets you photograph a quote in a book, then searches online to find the boundaries of the quote you're probably looking to note down, and adds the quote to your notebook. I find myself photographing quotes all the time. This is a big idea, and knowing the thread of quotes a person is interested in is a very powerful, and truly relevant advertising dataset. #relates to “site that autocompletes quotes” #intentiondb
+PROBLEM:
+SOLUTION:
+TECHNOLOGY: OCR
+TAGS: ~Jacob
+
+TITLE: Instaquote
+DESCRIPTION: Autocomplete quotes and create a database of quotes you’re interested in.
+MORE: Instaquote -- site that autocompletes quotes like instadefine.com  and it basically ends up letting you create a database  of quotes you're interested in
+and this is deep because quotes are your thoughts stated more clearly than you can state them yourself and if you make a db of all the quotes people think of  you get a huge window into their lives  it #relates to the power of status message logging. example:  is  send myself  email  of quotes I like  for instance  "and it scared me, having a wrong thought, because it meant my mind wasn't working properly"  from the curious incident of the dog in the night-time  i just was rereading today and i realized that was brilliant  because it relates to a concept  of avidya  in eastern philosophy the idea that there are some thoughts that we have that aren't true, but instead  things that shouldn't bother us bother us  and when we think carefully and relax we can learn to only be bothered by the right things  (relatedly, there's a lot to be done with etymology) #intentiondb ~jcole@mit.edu
+PROBLEM:
+SOLUTION:
+TECHNOLOGY:
+TAGS: ~Jacob
+
+TITLE: FoodMom
+DESCRIPTION: App that tells you what to cook and automatically orders ingredients (or makes you a shopping list)
+MORE: FoodMom -- App that tells you what to cook and automatically orders ingredients (or makes you a shopping list). Also suggest who you should cook with using the following meeting people strategy:” ~Jacob   +1 ~csvoss@mit.edu ~jcole@mit.edu #6.470 Meet people who have similar interests by matching people to each other who have mentioned titles to the same Wikipedia articles in their gmail chats, or used the same quotes. (Or it could look at your playlist history and match by music taste! (real “musicmatch”)). Cooking/eating is one of the few anchors to physical world in an era of increasing digital distraction, and we should use it to resurrect classic face to face socialization. Ideas. Starts with http://foodlists.tk/ #primer #lifecoach
+PROBLEM:
+SOLUTION:
+TECHNOLOGY:
+TAGS: ~Jacob
+
+TITLE: Call for Fall
+DESCRIPTION: Detect when an old person has fallen, and makes an emergency call.
+MORE: -app that uses accelerometer data to detect when you (an old person) have fallen. If you don’t touch a button in 1 min cancelling emergency call, it calls your relatives who check if you’re okay, and broadcasts your gps location. ~jcole likes this one -- email me if you want to work on it! #<-> ginger.io #lowhanging #humandatamining #machinelearning  ~jcole@mit.edu
+PROBLEM: Old people fall.
+SOLUTION: Detect when an old person has fallen, and makes an emergency call.
+TECHNOLOGY: accelerometer
+TAGS: 
+
+TITLE: ThisIsHowYouSoundRightNow
+DESCRIPTION: Determines your alertness level by using machine learning on keystrokes
+MORE: ThisIsHowYouSoundRightNow (or ThisIsHowYouLookRightNow) -- app that determines if you’re in “hack mode” or “lazy mode” (alertness level) by using machine learning on keystrokes. Make hack-o-meter. Also make it so that it shows a picture of you from webcam when you’re drowsy so you look at yourself and see you need to go to sleep #humandatamining #machinelearning ~jcole@mit.edu
+PROBLEM: We can’t tell if we’re being productive.
+SOLUTION: Determines your alertness level by using machine learning on keystrokes
+TECHNOLOGY: Machine learning
+TAGS: ~Jacob
+
+TITLE: News Timelines
+DESCRIPTION: Organize related news articles into timelines so you can see the meaning of each article
+MORE: Organize related news articles into timelines so you can see the meaning of each article, and maybe join in! #intentiondb ~jcole@mit.edu
+PROBLEM: It’s hard to follow news.
+SOLUTION: Organize related news articles into timelines
+TECHNOLOGY:
+TAGS: ~Jacob
+
+TITLE: CuriosityThread
+DESCRIPTION: Show the chain of questions or interests a person asked or followed to gain the knowledge and passion they have.
+MORE: CuriosityThread -- Site that shows the chain of questions/interests a person asked/followed to gain the knowledge/passion they have. Perhaps to partially populate this site, Wikipedia could track threads of browsing, and scrolling. Subsequently, tutorials (even a textbook!) customized to the curiosity profiles of different people could be made of it? Relatedly, creating a web database of the series of questions bright students ask could be extremely powerful. I would love, for instance, to have documentation of the series of questions one of my friends asked over the course of his life to ultimately gain the knowledge to get gold at the International Chemistry Olympiad. #edu #<->admitsphere #<->whyisitawesome. #active, see http://curiositythread.tk/ or http://whyisitawesome.wikispaces.com/ ~jcole@mit.edu
+PROBLEM: Follow someone’s learning process.
+SOLUTION: Record and show the chain of questions or interests a person asked or followed to gain the knowledge and passion they have. 
+TECHNOLOGY:
+TAGS: ~Jacob
+
+TITLE: IdeaOverflow
+DESCRIPTION: Allow people to share good ideas that they don't necessarily have time to implement themselves online.
+MORE: IdeaOverflow -- A place people can share good ideas that they don't necessarily have time to implement themselves online. I want to make a map, a connected graph, of all of peoples' ideas (and implemented engineering projects) that shows the relationship of these projects to one another. At the borders of this graph would lie the ideas that are yet to be implemented -- investigating them more deeply would be analogous to exploring undiscovered terrain on a map. This tool would help people to come up with awesome ideas for hackathons, class projects, startups, and fun, and it also allow people to see  the trends/relationships in exciting ideas that are surging at a given point in time. Most of all, it's inspiring to think that through this system, you could bring vitality to the education industry by reducing every class project to, at worst, implementing an idea that someone, somewhere would be really excited to build if they had the time to. #intentiondb ~jcole@mit.edu
+PROBLEM: Ideas are not equally distributed in people.
+SOLUTION: Allow people to share good ideas that they don't necessarily have time to implement themselves.
+TECHNOLOGY:
+TAGS: ~Jacob
+
+TITLE: PoliticalProgressBar
+DESCRIPTION: A simple GUI that voters can use to quickly see what government is trying to accomplish and how far it has gotten towards achieving its goals. It would take the form of a progress bar.
+MORE: PoliticalProgressBar -- I want to create a simple graphical interface that voters can use to quickly see what government is trying to accomplish and how far it has gotten towards achieving its goals -- it would perhaps take the form of a progress bar.
+More generally, the deeper significance of many news items can be revealed on interface such as this -- if a certain piece of sustainable energy legislation passes, how much closer has it gotten us as a nation and planet to actually being energy sustainable for the forseeable future? This system would graph that kind of information on timeline/progress bar, the position (% completion) of which could be determined roughly by a consensus of scholarly opinions.
+Above all, I want to make a database of thoughtful people and politicians' dreams -- their collective positive visions for how the world should be -- then find the most rational way to make those dreams real (e.g. elect the senators that have the competence, vision, and concrete plans necessary. Are trickle down economics or Obamanomics better for creating a vibrant economy that allows people to live the American dream? I don't know. Let's look at the research and find out, and take the most rational action.) #intentiondb ~jcole@mit.edu
+PROBLEM: Voters can’t gauge how successful government is.
+SOLUTION: A simple GUI that voters can use to quickly see what government is trying to accomplish and how far it has gotten towards achieving its goals.
+TECHNOLOGY:
+TAGS: ~Jacob
+
+
