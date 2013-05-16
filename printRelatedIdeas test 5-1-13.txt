@@ -1,0 +1,1028 @@
+[(u'social', u'like'), (u'social', u'enough'), (u'social', u'client')]
+[(u'social', u'let'), (u'social', u'out'), (u'social', u'calculator')]
+[(u'social', u'together'), (u'social', u'pretty'), (u'social', u'picture')]
+[(u'social', u'anyone'), (u'social', u'everyone'), (u'social', u'then')]
+[(u'social', u'like'), (u'social', u'multiple'), (u'social', u'interest')]
+[(u'social', u'mean'), (u'social', u'not'), (u'social', u'quite')]
+[(u'social', u'kind'), (u'social', u'help'), (u'social', u'able')]
+[(u'social', u'friend'), ('', ''), ('', '')]
+[(u'social', u'best'), (u'social', u'like'), ('', '')]
+[(u'social', u'anyone'), (u'social', u'agree'), (u'social', u'few')]
+[(u'social', u'social'), (u'social', u'special'), (u'social', u'then')]
+[(u'social', u'social'), (u'social', u'share'), (u'social', u'group')]
+[(u'social', u'kind'), (u'social', u'design'), (u'social', u'allow')]
+[(u'social', u'guy'), (u'social', u'other person'), (u'social', u'meet')]
+[(u'social', u'help'), (u'social', u'visit'), (u'social', u'browse')]
+[(u'social', u'website'), ('', ''), ('', '')]
+[(u'social', u'fair'), (u'social', u'try'), (u'social', u'just')]
+[(u'social', u'together'), (u'social', u'like'), (u'social', u'want')]
+[(u'social', u'help'), (u'social', u'like'), (u'social', u'person like')]
+[(u'social', u'chat'), (u'social', u'pitch'), (u'social', u'play')]
+[(u'social', u'social'), (u'social', u'together'), (u'social', u'many')]
+[(u'social', u'not'), (u'social', u'influence'), (u'social', u'science')]
+[(u'social', u'friend'), (u'social', u'better'), (u'social', u'achievement')]
+a) I meant an app that that would be able to read, for instance, a hidden QR cod 2.95476423265
+Workflow sharing -- start up idea is to take the workflows of top students and m 2.95377593222
+IdeaOverflow -- A place people can share good ideas that they dont necessarily h 2.95313341435
+IdeaOverflow: A place people can share good ideas that they dont necessarily hav 2.95313341435
+Experience capture. When something amazing, like a volcano eruption starts to ha 2.94712494655
+WhosAround? -- way to send messages to only to people nearby you without them ha 2.94606361534
+IWantA -- app that you input a list of items you want into that in turn lists al 2.9219142912
+Google docs optimized for instant web publishing #idea #good #lowhangingfruit ~j 2.92034384152
+-iPhone gong/om app – many iPhones would resonate together to create a consist 2.91764459411
+How about a  Netflix-algorithm-based scholarship matching site  (you get matched 2.91251848449
+PoliticalProgressBar -- I want to create a simple graphical interface that voter 2.91222459462
+-***GOOD IDEA*** ***COMMERCIALLY VIABLE*** web site that has a bunch of real peo 2.91125324287
+InstaBoxSite: platform to build: generalized, easy to modify "suggestion box" fr 2.90963976926
+CuriosityThread -- Site that shows the chain of questions/interests a person ask 2.90681124757
+CuriosityThread -- Site that shows the chain of questions/interests a person ask 2.90681124757
+WorldThroughYourEyes -- What if you could make an app for Google Glasses or simi 2.88021325913
+History-Tree: Browser plugin uses your browsing history to predict which pages y 2.87746015849
+Idea for a music project, to be performed at house parties. I tend to end up in  2.87503264168
+Scavenger Recipe App (aka Fridgey!) -- Enter what ingredients are present in you 2.86624175813
+I think Im most interested in a deck of cards app. it could be very interesting  2.86458814678
+>>> reload(idea_mapper)
+^[[A<module 'idea_mapper' from 'idea_mapper.py'>
+>>> idea_mapper.printRelatedIdeas("social ridesharing app")
+a) I meant an app that that would be able to read, for instance, a hidden QR cod 2.95476423265
+Workflow sharing -- start up idea is to take the workflows of top students and m 2.95377593222
+IdeaOverflow -- A place people can share good ideas that they dont necessarily h 2.95313341435
+IdeaOverflow: A place people can share good ideas that they dont necessarily hav 2.95313341435
+Experience capture. When something amazing, like a volcano eruption starts to ha 2.94712494655
+WhosAround? -- way to send messages to only to people nearby you without them ha 2.94606361534
+IWantA -- app that you input a list of items you want into that in turn lists al 2.9219142912
+Google docs optimized for instant web publishing #idea #good #lowhangingfruit ~j 2.92034384152
+-iPhone gong/om app – many iPhones would resonate together to create a consist 2.91764459411
+How about a  Netflix-algorithm-based scholarship matching site  (you get matched 2.91251848449
+PoliticalProgressBar -- I want to create a simple graphical interface that voter 2.91222459462
+-***GOOD IDEA*** ***COMMERCIALLY VIABLE*** web site that has a bunch of real peo 2.91125324287
+InstaBoxSite: platform to build: generalized, easy to modify "suggestion box" fr 2.90963976926
+CuriosityThread -- Site that shows the chain of questions/interests a person ask 2.90681124757
+CuriosityThread -- Site that shows the chain of questions/interests a person ask 2.90681124757
+WorldThroughYourEyes -- What if you could make an app for Google Glasses or simi 2.88021325913
+History-Tree: Browser plugin uses your browsing history to predict which pages y 2.87746015849
+Idea for a music project, to be performed at house parties. I tend to end up in  2.87503264168
+Scavenger Recipe App (aka Fridgey!) -- Enter what ingredients are present in you 2.86624175813
+I think Im most interested in a deck of cards app. it could be very interesting  2.86458814678
+>>> reload(idea_mapper)
+^[[A^[[A<module 'idea_mapper' from 'idea_mapper.py'>
+>>> idea_mapper.printRelatedIdeas("social ridesharing app")
+a) I meant an app that that would be able to read, for insta 2.95476423265
+Workflow sharing -- start up idea is to take the workflows o 2.95377593222
+IdeaOverflow -- A place people can share good ideas that the 2.95313341435
+IdeaOverflow: A place people can share good ideas that they  2.95313341435
+Experience capture. When something amazing, like a volcano e 2.94712494655
+WhosAround? -- way to send messages to only to people nearby 2.94606361534
+IWantA -- app that you input a list of items you want into t 2.9219142912
+Google docs optimized for instant web publishing #idea #good 2.92034384152
+-iPhone gong/om app – many iPhones would resonate together 2.91764459411
+How about a  Netflix-algorithm-based scholarship matching si 2.91251848449
+PoliticalProgressBar -- I want to create a simple graphical  2.91222459462
+-***GOOD IDEA*** ***COMMERCIALLY VIABLE*** web site that has 2.91125324287
+InstaBoxSite: platform to build: generalized, easy to modify 2.90963976926
+CuriosityThread -- Site that shows the chain of questions/in 2.90681124757
+CuriosityThread -- Site that shows the chain of questions/in 2.90681124757
+WorldThroughYourEyes -- What if you could make an app for Go 2.88021325913
+History-Tree: Browser plugin uses your browsing history to p 2.87746015849
+Idea for a music project, to be performed at house parties.  2.87503264168
+Scavenger Recipe App (aka Fridgey!) -- Enter what ingredient 2.86624175813
+I think Im most interested in a deck of cards app. it could  2.86458814678
+>>> idea_mapper.printRelatedIdeas("app that plays music based on what you are doing")
+Mostly, I want to do this because I personally have >10 proj 2.98201620868
+DeviceSymphony – mobile app/Web app that plays the same no 2.97762580278
+Musical Instruments (e.g. miracas, tilt-based instrument, et 2.95922776745
+Here are some of my app ideas! Please tell me if youd like t 2.92091131165
+Voice timbre extractor -- takes individual voices out of a c 2.91781577815
+Thoughtstream tool -- Make a central platform that integrate 2.9011036982
+InstaBoxSite: platform to build: generalized, easy to modify 2.88884885406
+How about a  Netflix-algorithm-based scholarship matching si 2.88656509247
+App that analyzes vital sign from image/video?PTSD treatment 2.86371329599
+FoodMom -- App that tells you what to cook and automatically 2.84543861704
+way to make payments by phone instead of physical credit car 2.83545474088
+-iPhone backup singer/instrument app -- would play an electr 2.83353516309
+Guard dog app -- uses network of data from all devices in ho 2.82961216036
+what if you used an app to track when people actually /do/ t 2.82631621945
+ Science projects: Is it impossible to construct a macro sca 2.82354821917
+WhosAround? -- way to send messages to only to people nearby 2.8229336731
+Mechanical Turk problems as reCaptcha -- service that lets y 2.81965201873
+IWantA -- app that you input a list of items you want into t 2.81656849067
+Roommate-cancelling headphones: uses roommates laptop mic to 2.81184196377
+IdeaOverflow -- A place people can share good ideas that the 2.80516555346
+>>> idea_mapper.printRelatedIdeas("app that plays music based on what you are doing")
+Mostly, I want to do this because I personally have >10 proj 2.98201620868
+DeviceSymphony – mobile app/Web app that plays the same no 2.97762580278
+Musical Instruments (e.g. miracas, tilt-based instrument, et 2.95922776745
+Here are some of my app ideas! Please tell me if youd like t 2.92091131165
+Voice timbre extractor -- takes individual voices out of a c 2.91781577815
+Thoughtstream tool -- Make a central platform that integrate 2.9011036982
+InstaBoxSite: platform to build: generalized, easy to modify 2.88884885406
+How about a  Netflix-algorithm-based scholarship matching si 2.88656509247
+App that analyzes vital sign from image/video?PTSD treatment 2.86371329599
+FoodMom -- App that tells you what to cook and automatically 2.84543861704
+way to make payments by phone instead of physical credit car 2.83545474088
+-iPhone backup singer/instrument app -- would play an electr 2.83353516309
+Guard dog app -- uses network of data from all devices in ho 2.82961216036
+what if you used an app to track when people actually /do/ t 2.82631621945
+ Science projects: Is it impossible to construct a macro sca 2.82354821917
+WhosAround? -- way to send messages to only to people nearby 2.8229336731
+Mechanical Turk problems as reCaptcha -- service that lets y 2.81965201873
+IWantA -- app that you input a list of items you want into t 2.81656849067
+Roommate-cancelling headphones: uses roommates laptop mic to 2.81184196377
+IdeaOverflow -- A place people can share good ideas that the 2.80516555346
+>>> 
+KeyboardInterrupt
+>>> 
+(venv_som)jcole@ubuntu:~/code/som$ git init
+Initialized empty Git repository in /home/jcole/code/som/.git/
+(venv_som)jcole@ubuntu:~/code/som$ git add *
+(venv_som)jcole@ubuntu:~/code/som$ git add .
+(venv_som)jcole@ubuntu:~/code/som$ git add README
+fatal: pathspec 'README' did not match any files
+(venv_som)jcole@ubuntu:~/code/som$ git commit -m 'initial project version'
+[master (root-commit) 2cb65ef] initial project version
+ Committer: Jacob Cole <jcole@ubuntu.(none)>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 472 files changed, 76927 insertions(+), 0 deletions(-)
+ create mode 100644 MockDB.py
+ create mode 100644 d4d/.directory
+ create mode 100644 d4d/Divisi For Dummies Overview.docx
+ create mode 100644 d4d/Samsung_CC.coords
+ create mode 100644 d4d/Samsung_CC.names
+ create mode 100644 d4d/Samsung_CC_Without_CN4.coords
+ create mode 100644 d4d/Samsung_CC_Without_CN4.names
+ create mode 100644 d4d/__init__.py
+ create mode 100644 d4d/__init__.pyc
+ create mode 100644 d4d/assertion_data/cc_dms_concepts.json
+ create mode 100644 d4d/assertion_data/cc_dms_predicates.json
+ create mode 100644 d4d/assertion_data/cc_samsung_concepts.json
+ create mode 100644 d4d/assertion_data/cc_samsung_predicates.json
+ create mode 100644 d4d/assertion_data/cc_test_concepts.json
+ create mode 100644 d4d/assertion_data/cc_test_predicates.json
+ create mode 100644 d4d/cmd.py
+ create mode 100644 d4d/d4d.py
+ create mode 100644 d4d/d4d.pyc
+ create mode 100644 d4d/d4d.wpr
+ create mode 100644 d4d/d4d.wpu
+ create mode 100644 d4d/d4dcc.py
+ create mode 100644 d4d/d4dcc.pyc
+ create mode 100644 d4d/d4dcc_old.py
+ create mode 100644 d4d/misc_examples/d4dbooks.py
+ create mode 100644 d4d/misc_examples/d4ddogs.py
+ create mode 100644 d4d/svd_view_doc.txt
+ create mode 100644 d4d_feb_19_2013.zip
+ create mode 100644 idea_mapper.py
+ create mode 100644 idea_mapper.pyc
+ create mode 160000 ideaoverflow-hackny
+ create mode 100644 making getRelatedIdeasFunctional and reverting to 1.3.7 with chase 4-28-13
+ create mode 100644 mock_db.py
+ create mode 100644 mock_db.pyc
+ create mode 100644 sqllite intro with chase 4-28-13
+ create mode 100644 test.db
+ create mode 100644 venv_chase/bin/activate
+ create mode 100644 venv_chase/bin/activate.csh
+ create mode 100644 venv_chase/bin/activate.fish
+ create mode 100644 venv_chase/bin/activate_this.py
+ create mode 100755 venv_chase/bin/easy_install
+ create mode 100755 venv_chase/bin/easy_install-2.7
+ create mode 100755 venv_chase/bin/pip
+ create mode 100755 venv_chase/bin/pip-2.7
+ create mode 100755 venv_chase/bin/python
+ create mode 120000 venv_chase/include/python2.7
+ create mode 120000 venv_chase/lib/python2.7/UserDict.py
+ create mode 100644 venv_chase/lib/python2.7/UserDict.pyc
+ create mode 120000 venv_chase/lib/python2.7/_abcoll.py
+ create mode 100644 venv_chase/lib/python2.7/_abcoll.pyc
+ create mode 120000 venv_chase/lib/python2.7/_weakrefset.py
+ create mode 100644 venv_chase/lib/python2.7/_weakrefset.pyc
+ create mode 120000 venv_chase/lib/python2.7/abc.py
+ create mode 100644 venv_chase/lib/python2.7/abc.pyc
+ create mode 120000 venv_chase/lib/python2.7/codecs.py
+ create mode 100644 venv_chase/lib/python2.7/codecs.pyc
+ create mode 120000 venv_chase/lib/python2.7/config
+ create mode 120000 venv_chase/lib/python2.7/copy_reg.py
+ create mode 100644 venv_chase/lib/python2.7/copy_reg.pyc
+ create mode 100644 venv_chase/lib/python2.7/distutils/__init__.py
+ create mode 100644 venv_chase/lib/python2.7/distutils/__init__.pyc
+ create mode 100644 venv_chase/lib/python2.7/distutils/distutils.cfg
+ create mode 120000 venv_chase/lib/python2.7/encodings
+ create mode 120000 venv_chase/lib/python2.7/fnmatch.py
+ create mode 100644 venv_chase/lib/python2.7/fnmatch.pyc
+ create mode 120000 venv_chase/lib/python2.7/genericpath.py
+ create mode 100644 venv_chase/lib/python2.7/genericpath.pyc
+ create mode 120000 venv_chase/lib/python2.7/lib-dynload
+ create mode 120000 venv_chase/lib/python2.7/linecache.py
+ create mode 100644 venv_chase/lib/python2.7/linecache.pyc
+ create mode 120000 venv_chase/lib/python2.7/locale.py
+ create mode 100644 venv_chase/lib/python2.7/locale.pyc
+ create mode 100644 venv_chase/lib/python2.7/no-global-site-packages.txt
+ create mode 120000 venv_chase/lib/python2.7/ntpath.py
+ create mode 100644 venv_chase/lib/python2.7/orig-prefix.txt
+ create mode 120000 venv_chase/lib/python2.7/os.py
+ create mode 100644 venv_chase/lib/python2.7/os.pyc
+ create mode 120000 venv_chase/lib/python2.7/posixpath.py
+ create mode 100644 venv_chase/lib/python2.7/posixpath.pyc
+ create mode 120000 venv_chase/lib/python2.7/re.py
+ create mode 100644 venv_chase/lib/python2.7/re.pyc
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/EGG-INFO/PKG-INFO
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/EGG-INFO/SOURCES.txt
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/EGG-INFO/dependency_links.txt
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/EGG-INFO/entry_points.txt
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/EGG-INFO/entry_points.txt.orig
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/EGG-INFO/top_level.txt
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/EGG-INFO/zip-safe
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/easy_install.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/easy_install.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/pkg_resources.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/pkg_resources.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/__init__.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/__init__.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/archive_util.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/archive_util.pyc
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/cli.exe
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/__init__.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/__init__.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/alias.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/alias.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/bdist_egg.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/bdist_egg.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/bdist_rpm.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/bdist_rpm.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/bdist_wininst.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/bdist_wininst.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/build_ext.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/build_ext.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/build_py.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/build_py.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/develop.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/develop.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/easy_install.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/easy_install.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/egg_info.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/egg_info.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/install.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/install.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/install_egg_info.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/install_egg_info.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/install_lib.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/install_lib.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/install_scripts.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/install_scripts.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/register.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/register.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/rotate.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/rotate.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/saveopts.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/saveopts.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/sdist.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/sdist.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/setopt.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/setopt.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/test.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/test.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/upload.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/upload.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/upload_docs.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/upload_docs.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/depends.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/depends.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/dist.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/dist.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/extension.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/extension.pyc
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/gui.exe
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/package_index.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/package_index.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/sandbox.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/sandbox.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/__init__.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/__init__.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/doctest.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/doctest.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/server.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/server.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_build_ext.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_build_ext.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_develop.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_develop.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_easy_install.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_easy_install.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_packageindex.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_packageindex.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_resources.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_resources.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_sandbox.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_sandbox.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_upload_docs.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_upload_docs.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/site.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/site.pyc
+ create mode 100644 venv_chase/lib/python2.7/site-packages/easy-install.pth
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/EGG-INFO/PKG-INFO
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/EGG-INFO/SOURCES.txt
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/EGG-INFO/dependency_links.txt
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/EGG-INFO/entry_points.txt
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/EGG-INFO/not-zip-safe
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/EGG-INFO/top_level.txt
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/__init__.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/__init__.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/_pkgutil.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/_pkgutil.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/backwardcompat.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/backwardcompat.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/basecommand.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/basecommand.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/baseparser.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/baseparser.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/__init__.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/__init__.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/bundle.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/bundle.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/completion.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/completion.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/freeze.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/freeze.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/help.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/help.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/install.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/install.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/search.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/search.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/uninstall.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/uninstall.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/unzip.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/unzip.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/zip.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/zip.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/download.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/download.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/exceptions.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/exceptions.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/index.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/index.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/locations.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/locations.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/log.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/log.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/req.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/req.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/runner.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/runner.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/util.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/util.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/vcs/__init__.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/vcs/__init__.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/vcs/bazaar.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/vcs/bazaar.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/vcs/git.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/vcs/git.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/vcs/mercurial.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/vcs/mercurial.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/vcs/subversion.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/vcs/subversion.pyc
+ create mode 100755 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/venv.py
+ create mode 100644 venv_chase/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/venv.pyc
+ create mode 100644 venv_chase/lib/python2.7/site-packages/setuptools.pth
+ create mode 100644 venv_chase/lib/python2.7/site.py
+ create mode 100644 venv_chase/lib/python2.7/site.pyc
+ create mode 120000 venv_chase/lib/python2.7/sre.py
+ create mode 120000 venv_chase/lib/python2.7/sre_compile.py
+ create mode 100644 venv_chase/lib/python2.7/sre_compile.pyc
+ create mode 120000 venv_chase/lib/python2.7/sre_constants.py
+ create mode 100644 venv_chase/lib/python2.7/sre_constants.pyc
+ create mode 120000 venv_chase/lib/python2.7/sre_parse.py
+ create mode 100644 venv_chase/lib/python2.7/sre_parse.pyc
+ create mode 120000 venv_chase/lib/python2.7/stat.py
+ create mode 100644 venv_chase/lib/python2.7/stat.pyc
+ create mode 120000 venv_chase/lib/python2.7/types.py
+ create mode 100644 venv_chase/lib/python2.7/types.pyc
+ create mode 120000 venv_chase/lib/python2.7/warnings.py
+ create mode 100644 venv_chase/lib/python2.7/warnings.pyc
+ create mode 120000 venv_chase/local
+ create mode 100644 venv_som/bin/activate
+ create mode 100644 venv_som/bin/activate.csh
+ create mode 100644 venv_som/bin/activate.fish
+ create mode 100644 venv_som/bin/activate_this.py
+ create mode 100755 venv_som/bin/easy_install
+ create mode 100755 venv_som/bin/easy_install-2.7
+ create mode 100755 venv_som/bin/pip
+ create mode 100755 venv_som/bin/pip-2.7
+ create mode 100755 venv_som/bin/python
+ create mode 120000 venv_som/include/python2.7
+ create mode 100644 venv_som/lib/.directory
+ create mode 120000 venv_som/lib/python2.7/UserDict.py
+ create mode 100644 venv_som/lib/python2.7/UserDict.pyc
+ create mode 120000 venv_som/lib/python2.7/_abcoll.py
+ create mode 100644 venv_som/lib/python2.7/_abcoll.pyc
+ create mode 120000 venv_som/lib/python2.7/_weakrefset.py
+ create mode 100644 venv_som/lib/python2.7/_weakrefset.pyc
+ create mode 120000 venv_som/lib/python2.7/abc.py
+ create mode 100644 venv_som/lib/python2.7/abc.pyc
+ create mode 120000 venv_som/lib/python2.7/codecs.py
+ create mode 100644 venv_som/lib/python2.7/codecs.pyc
+ create mode 120000 venv_som/lib/python2.7/config
+ create mode 120000 venv_som/lib/python2.7/copy_reg.py
+ create mode 100644 venv_som/lib/python2.7/copy_reg.pyc
+ create mode 100644 venv_som/lib/python2.7/distutils/__init__.py
+ create mode 100644 venv_som/lib/python2.7/distutils/__init__.pyc
+ create mode 100644 venv_som/lib/python2.7/distutils/distutils.cfg
+ create mode 120000 venv_som/lib/python2.7/encodings
+ create mode 120000 venv_som/lib/python2.7/fnmatch.py
+ create mode 100644 venv_som/lib/python2.7/fnmatch.pyc
+ create mode 120000 venv_som/lib/python2.7/genericpath.py
+ create mode 100644 venv_som/lib/python2.7/genericpath.pyc
+ create mode 120000 venv_som/lib/python2.7/lib-dynload
+ create mode 120000 venv_som/lib/python2.7/linecache.py
+ create mode 100644 venv_som/lib/python2.7/linecache.pyc
+ create mode 120000 venv_som/lib/python2.7/locale.py
+ create mode 120000 venv_som/lib/python2.7/ntpath.py
+ create mode 100644 venv_som/lib/python2.7/orig-prefix.txt
+ create mode 120000 venv_som/lib/python2.7/os.py
+ create mode 100644 venv_som/lib/python2.7/os.pyc
+ create mode 120000 venv_som/lib/python2.7/posixpath.py
+ create mode 100644 venv_som/lib/python2.7/posixpath.pyc
+ create mode 120000 venv_som/lib/python2.7/re.py
+ create mode 100644 venv_som/lib/python2.7/re.pyc
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/EGG-INFO/PKG-INFO
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/EGG-INFO/SOURCES.txt
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/EGG-INFO/dependency_links.txt
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/EGG-INFO/entry_points.txt
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/EGG-INFO/entry_points.txt.orig
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/EGG-INFO/top_level.txt
+
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/EGG-INFO/zip-safe
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/easy_install.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/easy_install.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/pkg_resources.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/pkg_resources.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/__init__.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/__init__.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/archive_util.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/archive_util.pyc
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/cli.exe
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/__init__.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/__init__.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/alias.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/alias.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/bdist_egg.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/bdist_egg.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/bdist_rpm.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/bdist_rpm.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/bdist_wininst.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/bdist_wininst.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/build_ext.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/build_ext.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/build_py.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/build_py.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/develop.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/develop.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/easy_install.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/easy_install.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/egg_info.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/egg_info.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/install.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/install.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/install_egg_info.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/install_egg_info.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/install_lib.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/install_lib.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/install_scripts.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/install_scripts.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/register.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/register.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/rotate.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/rotate.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/saveopts.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/saveopts.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/sdist.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/sdist.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/setopt.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/setopt.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/test.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/test.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/upload.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/upload.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/upload_docs.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/command/upload_docs.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/depends.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/depends.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/dist.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/dist.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/extension.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/extension.pyc
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/gui.exe
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/package_index.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/package_index.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/sandbox.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/sandbox.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/__init__.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/__init__.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/doctest.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/doctest.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/server.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/server.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_build_ext.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_build_ext.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_develop.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_develop.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_easy_install.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_easy_install.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_packageindex.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_packageindex.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_resources.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_resources.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_sandbox.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_sandbox.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_upload_docs.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/setuptools/tests/test_upload_docs.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/site.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/distribute-0.6.19-py2.7.egg/site.pyc
+ create mode 100644 venv_som/lib/python2.7/site-packages/easy-install.pth
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/EGG-INFO/PKG-INFO
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/EGG-INFO/SOURCES.txt
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/EGG-INFO/dependency_links.txt
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/EGG-INFO/entry_points.txt
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/EGG-INFO/not-zip-safe
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/EGG-INFO/top_level.txt
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/__init__.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/__init__.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/_pkgutil.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/_pkgutil.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/backwardcompat.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/backwardcompat.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/basecommand.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/basecommand.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/baseparser.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/baseparser.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/__init__.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/__init__.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/bundle.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/bundle.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/completion.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/completion.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/freeze.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/freeze.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/help.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/help.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/install.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/install.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/search.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/search.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/uninstall.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/uninstall.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/unzip.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/unzip.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/zip.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/commands/zip.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/download.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/download.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/exceptions.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/exceptions.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/index.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/index.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/locations.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/locations.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/log.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/log.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/req.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/req.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/runner.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/runner.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/util.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/util.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/vcs/__init__.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/vcs/__init__.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/vcs/bazaar.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/vcs/bazaar.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/vcs/git.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/vcs/git.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/vcs/mercurial.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/vcs/mercurial.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/vcs/subversion.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/vcs/subversion.pyc
+ create mode 100755 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/venv.py
+ create mode 100644 venv_som/lib/python2.7/site-packages/pip-1.0.2-py2.7.egg/pip/venv.pyc
+ create mode 100644 venv_som/lib/python2.7/site-packages/setuptools.pth
+ create mode 100644 venv_som/lib/python2.7/site.py
+ create mode 100644 venv_som/lib/python2.7/site.pyc
+ create mode 120000 venv_som/lib/python2.7/sre.py
+ create mode 120000 venv_som/lib/python2.7/sre_compile.py
+ create mode 100644 venv_som/lib/python2.7/sre_compile.pyc
+ create mode 120000 venv_som/lib/python2.7/sre_constants.py
+ create mode 100644 venv_som/lib/python2.7/sre_constants.pyc
+ create mode 120000 venv_som/lib/python2.7/sre_parse.py
+ create mode 100644 venv_som/lib/python2.7/sre_parse.pyc
+ create mode 120000 venv_som/lib/python2.7/stat.py
+ create mode 100644 venv_som/lib/python2.7/stat.pyc
+ create mode 120000 venv_som/lib/python2.7/types.py
+ create mode 100644 venv_som/lib/python2.7/types.pyc
+ create mode 120000 venv_som/lib/python2.7/warnings.py
+ create mode 100644 venv_som/lib/python2.7/warnings.pyc
+ create mode 120000 venv_som/local
+(venv_som)jcole@ubuntu:~/code/som$ git status
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#   (commit or discard the untracked or modified content in submodules)
+#
+#       modified:   ideaoverflow-hackny (modified content)
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+(venv_som)jcole@ubuntu:~/code/som$ git remote
+(venv_som)jcole@ubuntu:~/code/som$ git remote -v
+(venv_som)jcole@ubuntu:~/code/som$ git remote add git@github.com:tmad4000/IdeaOverflow_som.git
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=<push|fetch>]
+                          set up remote as a mirror to push to or fetch from
+
+(venv_som)jcole@ubuntu:~/code/som$ git remote add github.com:tmad4000/IdeaOverflow_som.git
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=<push|fetch>]
+                          set up remote as a mirror to push to or fetch from
+
+(venv_som)jcole@ubuntu:~/code/som$ git remote add origin git@github.com:tmad4000/IdeaOverflow_som.git
+(venv_som)jcole@ubuntu:~/code/som$ git push origin master
+Enter passphrase for key '/home/jcole/.ssh/id_rsa': 
+To git@github.com:tmad4000/IdeaOverflow_som.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:tmad4000/IdeaOverflow_som.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
+(venv_som)jcole@ubuntu:~/code/som$ git pull
+Enter passphrase for key '/home/jcole/.ssh/id_rsa': 
+warning: no common commits
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0)
+Unpacking objects: 100% (3/3), done.
+From github.com:tmad4000/IdeaOverflow_som
+ * [new branch]      master     -> origin/master
+You asked me to pull without telling me which branch you
+want to merge with, and 'branch.master.merge' in
+your configuration file does not tell me, either. Please
+specify which branch you want to use on the command line and
+try again (e.g. 'git pull <repository> <refspec>').
+See git-pull(1) for details.
+
+If you often merge with the same branch, you may want to
+use something like the following in your configuration file:
+
+    [branch "master"]
+    remote = <nickname>
+    merge = <remote-ref>
+
+    [remote "<nickname>"]
+    url = <url>
+    fetch = <refspec>
+
+See git-config(1) for details.
+(venv_som)jcole@ubuntu:~/code/som$ git pull origin master
+Enter passphrase for key '/home/jcole/.ssh/id_rsa': 
+From github.com:tmad4000/IdeaOverflow_som
+ * branch            master     -> FETCH_HEAD
+Merge made by recursive.
+ README.md |    2 ++
+ 1 files changed, 2 insertions(+), 0 deletions(-)
+ create mode 100644 README.md
+(venv_som)jcole@ubuntu:~/code/som$ git push
+Enter passphrase for key '/home/jcole/.ssh/id_rsa': 
+Counting objects: 389, done.
+Compressing objects: 100% (351/351), done.
+Writing objects: 100% (388/388), 8.99 MiB | 1.73 MiB/s, done.
+Total 388 (delta 115), reused 0 (delta 0)
+To git@github.com:tmad4000/IdeaOverflow_som.git
+   b32ff61..db896dc  master -> master
+(venv_som)jcole@ubuntu:~/code/som$ python
+Python 2.7.2+ (default, Jul 20 2012, 22:15:08) 
+[GCC 4.6.1] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import idea_mapper
+principal_component_count=11
+d4d.py loaded
+>>> printRelatedIdeas("app that suggests what you should cook")
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'printRelatedIdeas' is not defined
+>>> idea_mapper.printRelatedIdeas("app that suggests what you should cook")
+Instaquote -- site that autocompletes quotes like instadefin 4.29704883055
+hackercasting -- streaming any or all of your screen, keystr 4.25861012105
+Emergency Pizza Button app -- One click pizza ordering via a 4.23874876395
+Each index card has limited space but allows multimedia (for 4.22726048802
+Who Do I Live Like? --  App that analyzes computer/smartphon 4.21441004139
+Scavenger Recipe App (aka Fridgey!) -- Enter what ingredient 4.21102961431
+App that analyzes vital sign from image/video?PTSD treatment 4.20981309408
+what if you used an app to track when people actually /do/ t 4.12299012067
+IWantA -- app that you input a list of items you want into t 4.11394476159
+free food/reuse finder: app that parses free food/reuse mail 4.07856843219
+Idea for a music project, to be performed at house parties.  4.00266348953
+WhosAround? -- way to send messages to only to people nearby 3.95104577131
+History-Tree: Browser plugin uses your browsing history to p 3.91307402099
+Mechanical Turk problems as reCaptcha -- service that lets y 3.90885755675
+Social ridesharing app --  If your friends or friends of fri 3.90355767556
+Thoughtstream tool -- Make a central platform that integrate 3.86295860576
+a) I meant an app that that would be able to read, for insta 3.84138745074
+"Holding a baby chicken" App that helps you move gently and  3.83942491556
+ Science projects: Is it impossible to construct a macro sca 3.8354490497
+Experience capture. When something amazing, like a volcano e 3.83134532718
+>>> idea_mapper.printRelatedIdeas("app that tells  what you should cook")
+Scavenger Recipe App (aka Fridgey!) -- Enter what ingredient 4.81468262447
+IPhone as segway sensor arrayApp to read secret physical sec 4.69604446797
+Thoughtstream tool -- Make a central platform that integrate 4.62537877739
+Workflow sharing -- start up idea is to take the workflows o 4.60708047841
+Google docs optimized for instant web publishing #idea #good 4.55868462732
+a) I meant an app that that would be able to read, for insta 4.51244270523
+Musical Instruments (e.g. miracas, tilt-based instrument, et 4.5001399725
+History-Tree: Browser plugin uses your browsing history to p 4.45418393698
+Emergency Pizza Button app -- One click pizza ordering via a 4.4195688229
+Instaquote -- site that autocompletes quotes like instadefin 4.36124131393
+"PA System" multiphone app -- 1 iPhone broadcasts microphone 4.33456129163
+Mostly, I want to do this because I personally have >10 proj 4.29089803418
+what if you used an app to track when people actually /do/ t 4.26277431461
+Each index card has limited space but allows multimedia (for 4.24155580663
+App/Wii game/rock band extension that lets you be a conducto 4.21276180808
+Social ridesharing app --  If your friends or friends of fri 4.18118348148
+LiveLog --  Evernote + twitter (+ etherpad?). .realtime blog 4.17994760848
+-***GOOD IDEA*** ***COMMERCIALLY VIABLE*** web site that has 4.15274026616
+Guard dog app -- uses network of data from all devices in ho 4.12782982946
+Roommate-cancelling headphones: uses roommates laptop mic to 4.10525587958
+>>> idea_mapper.printRelatedIdeas("app that tells  what you should cook and automatically orders ingredients")
+Scavenger Recipe App (aka Fridgey!) -- Enter what ingredient 4.91944480371
+Emergency Pizza Button app -- One click pizza ordering via a 4.71902500896
+IPhone as segway sensor arrayApp to read secret physical sec 4.69604446797
+Google docs optimized for instant web publishing #idea #good 4.66840900525
+Thoughtstream tool -- Make a central platform that integrate 4.62537877739
+Workflow sharing -- start up idea is to take the workflows o 4.60708047841
+FaceAverage -- Research shows that statistically speaking, i 4.55547345818
+History-Tree: Browser plugin uses your browsing history to p 4.55035824554
+Instaquote -- site that autocompletes quotes like instadefin 4.54222619408
+a) I meant an app that that would be able to read, for insta 4.51244270523
+Website that allows instant food ordering with a press of a  4.51133734747
+Musical Instruments (e.g. miracas, tilt-based instrument, et 4.5001399725
+-iPhone gong/om app – many iPhones would resonate together 4.46061145306
+hackercasting -- streaming any or all of your screen, keystr 4.41786726315
+way to make payments by phone instead of physical credit car 4.41355927023
+Flow Cytometry App: I want someone to write an app that allo 4.39049456904
+App/Wii game/rock band extension that lets you be a conducto 4.38851462903
+as for a graphing calculator, check out https://www.abetterc 4.36133849528
+PoliticalProgressBar -- I want to create a simple graphical  4.35761318168
+CuriosityThread -- Site that shows the chain of questions/in 4.35125733673
+>>> idea_mapper.printRelatedIdeas("app that tells  what you should cook and automatically orders ingredients shopping list")
+Scavenger Recipe App (aka Fridgey!) -- Enter what ingredient 4.91944480371
+IWantA -- app that you input a list of items you want into t 4.88022466819
+Workflow sharing -- start up idea is to take the workflows o 4.78606405764
+I like a lot of the ideas Jacob has posted here. Im interest 4.77020403229
+Emergency Pizza Button app -- One click pizza ordering via a 4.71902500896
+IPhone as segway sensor arrayApp to read secret physical sec 4.69604446797
+a) I meant an app that that would be able to read, for insta 4.67505341695
+Google docs optimized for instant web publishing #idea #good 4.66840900525
+History-Tree: Browser plugin uses your browsing history to p 4.63397603622
+Thoughtstream tool -- Make a central platform that integrate 4.62537877739
+"Window" into virtual world app: use the iPhone as a window  4.60730891623
+InstaBoxSite: platform to build: generalized, easy to modify 4.60190876708
+-app that uses accelerometer data to detect when you (an old 4.59960637594
+App/Wii game/rock band extension that lets you be a conducto 4.59005502907
+-***GOOD IDEA*** ***COMMERCIALLY VIABLE*** web site that has 4.58309294577
+hackercasting -- streaming any or all of your screen, keystr 4.57950380573
+Mostly, I want to do this because I personally have >10 proj 4.56950743284
+FaceAverage -- Research shows that statistically speaking, i 4.55547345818
+Instaquote -- site that autocompletes quotes like instadefin 4.54222619408
+Create graph of all hackathon project ideas/startups to visu 4.53287529471
+>>> idea_mapper.printRelatedIdeas("shopping list")
+IWantA -- app that you input a list of items you want into t 4.80680907526
+Workflow sharing -- start up idea is to take the workflows o 4.74962268986
+Thoughtstream tool -- Make a central platform that integrate 4.66792562007
+Each index card has limited space but allows multimedia (for 4.58608540848
+UILab -- toolset that allows you to design UI and UX for any 4.55747469597
+-***GOOD IDEA*** ***COMMERCIALLY VIABLE*** web site that has 4.53190515212
+WhosAround? -- way to send messages to only to people nearby 4.5279020041
+Create graph of all hackathon project ideas/startups to visu 4.5211767829
+a) I meant an app that that would be able to read, for insta 4.51905467033
+IPhone as segway sensor arrayApp to read secret physical sec 4.50825552893
+Build eyetracking heatmap from laptop webcam -- useful for e 4.50112898235
+InstaBoxSite: platform to build: generalized, easy to modify 4.4985641514
+Flow Me – Tool for making freestyling/rhyme/poetry unfairl 4.48993716028
+History-Tree: Browser plugin uses your browsing history to p 4.48931501199
+Mostly, I want to do this because I personally have >10 proj 4.4614340618
+Who Do I Live Like? --  App that analyzes computer/smartphon 4.4528755523
+PoliticalProgressBar -- I want to create a simple graphical  4.44090966912
+hackercasting -- streaming any or all of your screen, keystr 4.43127992754
+way to make payments by phone instead of physical credit car 4.42585908142
+-iPhone gong/om app – many iPhones would resonate together 4.41928331475
+>>> idea_mapper.printRelatedIdeas("suggest who you should cook with")
+Instaquote -- site that autocompletes quotes like instadefin 4.29704883055
+hackercasting -- streaming any or all of your screen, keystr 4.25861012105
+Emergency Pizza Button app -- One click pizza ordering via a 4.23874876395
+Each index card has limited space but allows multimedia (for 4.22726048802
+Who Do I Live Like? --  App that analyzes computer/smartphon 4.21441004139
+Scavenger Recipe App (aka Fridgey!) -- Enter what ingredient 4.21102961431
+App that analyzes vital sign from image/video?PTSD treatment 4.20981309408
+what if you used an app to track when people actually /do/ t 4.12299012067
+IWantA -- app that you input a list of items you want into t 4.11394476159
+free food/reuse finder: app that parses free food/reuse mail 4.07856843219
+Idea for a music project, to be performed at house parties.  4.00266348953
+WhosAround? -- way to send messages to only to people nearby 3.95104577131
+History-Tree: Browser plugin uses your browsing history to p 3.91307402099
+Mechanical Turk problems as reCaptcha -- service that lets y 3.90885755675
+Social ridesharing app --  If your friends or friends of fri 3.90355767556
+Thoughtstream tool -- Make a central platform that integrate 3.86295860576
+a) I meant an app that that would be able to read, for insta 3.84138745074
+"Holding a baby chicken" App that helps you move gently and  3.83942491556
+ Science projects: Is it impossible to construct a macro sca 3.8354490497
+Experience capture. When something amazing, like a volcano e 3.83134532718
+>>> idea_mapper.printRelatedIdeas("App that tells you what to cook and automatically orders ingredients (or makes you a shopping list). Also suggest who you should cook with using the following meeting people strategy:")
+
+IWantA -- app that you input a list of items you want into t 4.95445919727
+Scavenger Recipe App (aka Fridgey!) -- Enter what ingredient 4.94386986915
+Emergency Pizza Button app -- One click pizza ordering via a 4.87192092754
+i could write a tool to find people i would like to meet at  4.86400404133
+I like a lot of the ideas Jacob has posted here. Im interest 4.85280327445
+re: meeting other people at hackathon/checking in at event   4.84332005636
+Workflow sharing -- start up idea is to take the workflows o 4.84288263201
+IPhone as segway sensor arrayApp to read secret physical sec 4.83324039956
+Idea for a music project, to be performed at house parties.  4.80231660918
+Guard dog app -- uses network of data from all devices in ho 4.79871885826
+Musical Instruments (e.g. miracas, tilt-based instrument, et 4.77745747474
+ Science projects: Is it impossible to construct a macro sca 4.76774438418
+InstaBoxSite: platform to build: generalized, easy to modify 4.76096490799
+COOL: iphone as mouse replacement app that you slide phone o 4.75782487736
+Google docs optimized for instant web publishing #idea #good 4.75100824741
+History-Tree: Browser plugin uses your browsing history to p 4.74412657191
+Thoughtstream tool -- Make a central platform that integrate 4.74042283243
+what if you used an app to track when people actually /do/ t 4.7144951297
+Group of people takes pictures at scenic spot, automatic com 4.71430150448
+Index card sharing -- A good way to organize your thoughts i 4.70358218706
+>>> 
+>>> idea_mapper.printRelatedIdeas("notebook")
+Thoughtstream tool -- Make a central platform that integrate 4.65944483629
+Workflow sharing -- start up idea is to take the workflows o 4.62896319025
+CuriosityThread -- Site that shows the chain of questions/in 4.2452540084
+Hacker casting – service that allows people to cast their  4.16551921396
+CuriosityThread -- Site that shows the chain of questions/in 4.15366784586
+Flow Me – Tool for making freestyling/rhyme/poetry unfairl 4.07219665955
+Social ridesharing app --  If your friends or friends of fri 4.05096529175
+Mostly, I want to do this because I personally have >10 proj 4.03230486741
+I like a lot of the ideas Jacob has posted here. Im interest 3.94268633862
+-***GOOD IDEA*** ***COMMERCIALLY VIABLE*** web site that has 3.94019501224
+PhotoQuote -- app that lets you photograph a quote in a book 3.91938552829
+App that helps you relax and keep balanced lifestyleActigrap 3.84970038969
+Wow, this list is quite broad. Im not sure if this is what y 3.79086148775
+PoliticalProgressBar -- I want to create a simple graphical  3.70851939857
+App/Wii game/rock band extension that lets you be a conducto 3.69226050652
+what if you used an app to track when people actually /do/ t 3.68777106987
+Abubakar Abid (aabid93@mit.edu) wrote:Wow, this list is quit 3.61807827204
+Scavenger Recipe App (aka Fridgey!) -- Enter what ingredient 3.6054838309
+Google docs optimized for instant web publishing #idea #good 3.55542461831
+IPhone as segway sensor arrayApp to read secret physical sec 3.47401733349
+>>> idea_mapper.printRelatedIdeas("meeting people")
+CloudDream -- creates cloud/ceiling popcorn patterns for art 4.79512488897
+Mostly, I want to do this because I personally have >10 proj 4.76757885223
+Each index card has limited space but allows multimedia (for 4.75072984947
+PoliticalProgressBar -- I want to create a simple graphical  4.74440435496
+How about a  Netflix-algorithm-based scholarship matching si 4.74000823712
+IPhone as segway sensor arrayApp to read secret physical sec 4.732309241
+-iPhone gong/om app – many iPhones would resonate together 4.72951984426
+App that analyzes vital sign from image/video?PTSD treatment 4.72746692432
+hackercasting -- streaming any or all of your screen, keystr 4.72197765762
+Social ridesharing app --  If your friends or friends of fri 4.70000776385
+I like a lot of the ideas Jacob has posted here. Im interest 4.68950385103
+Voice timbre extractor -- takes individual voices out of a c 4.67686619543
+Hacker casting – service that allows people to cast their  4.66178123912
+IWantA -- app that you input a list of items you want into t 4.65036947534
+i could write a tool to find people i would like to meet at  4.64374449108
+IdeaOverflow -- A place people can share good ideas that the 4.64290571945
+IdeaOverflow: A place people can share good ideas that they  4.64290571945
+Real-time politifact analysis of political ads youre watchin 4.62869681315
+WhosAround? -- way to send messages to only to people nearby 4.61547359112
+I think Im most interested in a deck of cards app. it could  4.59353647409
+>>> idea_mapper.printRelatedIdeas("FoodMom")
+Mind Map of HackathonProjects.tk google doc: IdeaMap.tk <htt 0
+Workflow sharing -- start up idea is to take the workflows o 0
+Flow Cytometry App: I want someone to write an app that allo 0
+what if you used an app to track when people actually /do/ t 0
+i could write a tool to find people i would like to meet at  0
+IdeaOverflow Bite-sized HackNY Project -- email ~jcole@mit.e 0
+Pitch-based scrolling - e.g. when you sing middle C, the doc 0
+EEG-based Slumping Detector -- detect the pattern of brain a 0
+WorldThroughYourEyes -- What if you could make an app for Go 0
+InstaBoxSite: platform to build: generalized, easy to modify 0
+Tool to find song playing in background of youtube video, fo 0
+#idea virtual reality game with 3d-goggles in swimming pool. 0
+Index card sharing -- A good way to organize your thoughts i 0
+I am inspired by Trefethens Index Cards: one mathematician w 0
+There are two parts to this project: allowing the user to cr 0
+Each index card has limited space but allows multimedia (for 0
+Thoughtstream tool -- Make a central platform that integrate 0
+Idea for a music project, to be performed at house parties.  0
+Tool or music bot for quickly turning protest chants into ge 0
+Flow Me – Tool for making freestyling/rhyme/poetry unfairl 0
+>>> idea_mapper.printRelatedIdeas("Food")
+I think Im most interested in a deck of cards app. it could  3.81276042235
+Workflow sharing -- start up idea is to take the workflows o 3.66961944549
+hackercasting -- streaming any or all of your screen, keystr 3.43660605094
+Each index card has limited space but allows multimedia (for 3.26331873915
+IWantA -- app that you input a list of items you want into t 3.24142403488
+playlistforlife.com -- looks at what youre doing on pc and o 3.22983664694
+InstaBoxSite: platform to build: generalized, easy to modify 3.22915499077
+Musical Instruments (e.g. miracas, tilt-based instrument, et 3.22482179271
+Academic conversations tool (matches people to each other th 3.06356469046
+IdeaOverflow -- A place people can share good ideas that the 2.99586430645
+IdeaOverflow: A place people can share good ideas that they  2.99586430645
+way to make payments by phone instead of physical credit car 2.96778352844
+what if you used an app to track when people actually /do/ t 2.95918710234
+Flow Me – Tool for making freestyling/rhyme/poetry unfairl 2.92767388576
+I am inspired by Trefethens Index Cards: one mathematician w 2.85726909109
+I like a lot of the ideas Jacob has posted here. Im interest 2.82090177874
+Mechanical Turk problems as reCaptcha -- service that lets y 2.79304411378
+Group of people takes pictures at scenic spot, automatic com 2.78812919519
+EEG-based Slumping Detector -- detect the pattern of brain a 2.77223368754
+
+Build eyetracking heatmap from laptop webcam -- useful for e 2.76491634461
+>>> idea_mapper.printRelatedIdeas("socialization")
+Scavenger Recipe App (aka Fridgey!) -- Enter what ingredient 4.24576453815
+Who Do I Live Like? --  App that analyzes computer/smartphon 4.23249850433
+How about a  Netflix-algorithm-based scholarship matching si 4.19756070711
+Workflow sharing -- start up idea is to take the workflows o 4.19082214184
+IdeaOverflow -- A place people can share good ideas that the 4.15384795657
+IdeaOverflow: A place people can share good ideas that they  4.15384795657
+Google docs optimized for instant web publishing #idea #good 4.07613573517
+hackercasting -- streaming any or all of your screen, keystr 4.07229652905
+PoliticalProgressBar -- I want to create a simple graphical  4.05181256603
+Musical Instruments (e.g. miracas, tilt-based instrument, et 4.00332966425
+Experience capture. When something amazing, like a volcano e 3.99891373704
+what if you used an app to track when people actually /do/ t 3.83324073911
+UILab -- toolset that allows you to design UI and UX for any 3.8177380166
+iPhone gong/om app – App that sings the same note as you a 3.71037840195
+a) I meant an app that that would be able to read, for insta 3.55917977805
+-iPhone gong/om app – many iPhones would resonate together 3.51401911025
+Thoughtstream tool -- Make a central platform that integrate 3.47762995487
+Guitar hero typing tutor – letters fall down the screen, a 3.45141055453
+BikeSting -- #hardware a chip embedded in a bike seat that g 3.43171774494
+Flow Cytometry App: I want someone to write an app that allo 3.38795196741
+>>> idea_mapper.printRelatedIdeas("Cooking/eating is one of the few anchors to physical world in an era of increasing digital distraction")
+PoliticalProgressBar -- I want to create a simple graphical  4.74804321785
+#idea virtual reality game with 3d-goggles in swimming pool. 4.70573917665
+as for a graphing calculator, check out https://www.abetterc 4.64047948224
+App that analyzes vital sign from image/video?PTSD treatment 4.6362769969
+hackercasting -- streaming any or all of your screen, keystr 4.61839930493
+what if you used an app to track when people actually /do/ t 4.61550382105
+Research shows that statistically speaking, if you average e 4.61280684608
+App/Wii game/rock band extension that lets you be a conducto 4.6122160596
+Scavenger Recipe App (aka Fridgey!) -- Enter what ingredient 4.60418192989
+IdeaOverflow -- A place people can share good ideas that the 4.60157558987
+App that helps you relax and keep balanced lifestyleActigrap 4.58886002318
+Social ridesharing app --  If your friends or friends of fri 4.58160868959
+WhereAreYou? app -- instead of txting your friends how long  4.5813507503
+Who Do I Live Like? --  App that analyzes computer/smartphon 4.58019923686
+CuriosityThread -- Site that shows the chain of questions/in 4.57773799058
+Workflow sharing -- start up idea is to take the workflows o 4.56405167816
+History-Tree: Browser plugin uses your browsing history to p 4.55510702878
+Each index card has limited space but allows multimedia (for 4.55246027263
+Experience capture. When something amazing, like a volcano e 4.55181089386
+a) I meant an app that that would be able to read, for insta 4.54831393091
+>>> idea_mapper.printRelatedIdeas("resurrect classic face to face socialization")
+FoodMom -- App that tells you what to cook and automatically 4.88632633062
+Workflow sharing -- start up idea is to take the workflows o 4.58507933153
+I am inspired by Trefethens Index Cards: one mathematician w 4.27561766162
+Wow, this list is quite broad. Im not sure if this is what y 4.25534523752
+Abubakar Abid (aabid93@mit.edu) wrote:Wow, this list is quit 4.25534523752
+IdeaOverflow -- A place people can share good ideas that the 4.22915685546
+IdeaOverflow: A place people can share good ideas that they  4.22915685546
+Experience capture. When something amazing, like a volcano e 4.20939175984
+How about a  Netflix-algorithm-based scholarship matching si 4.18063872639
+way to make payments by phone instead of physical credit car 4.07532295699
+Scavenger Recipe App (aka Fridgey!) -- Enter what ingredient 4.06947064006
+IWantA -- app that you input a list of items you want into t 4.05179744388
+Slump-o-meter -- webcam (or other device!) based posture det 4.02542177279
+Social ridesharing app --  If your friends or friends of fri 3.96102053124
+Wouldnt it be cool if you could get captioning of an event v 3.88181828624
+iPhone gong/om app – App that sings the same note as you a 3.87692972561
+-***GOOD IDEA*** ***COMMERCIALLY VIABLE*** web site that has 3.79777697887
+Tool to find song playing in background of youtube video, fo 3.78150145684
+EEG-based Slumping Detector -- detect the pattern of brain a 3.77451909424
+Voice timbre extractor -- takes individual voices out of a c 3.76847586554
+>>> 
+
