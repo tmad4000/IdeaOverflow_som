@@ -32,7 +32,7 @@ class Idea:
         def print_related_ideas(self):
                 s=""
                 for (i,rel) in self.related_ideas:
-                        s=s+str((i.title,rel))
+                        s=s+str(i.ID)+" "+i.title[:-1]+": "+i.description[0:50]+" "+str(rel)+"\n"
                 return s
 
 def read_next_idea(f):
@@ -182,8 +182,9 @@ def how_related_are(concept1, concept2):
                 #print "key error ",concept1," ",concept2
                 return 0
 
-def how_related_are_concept_lists(concept_list1, concept_list2):
-        return how_related_are_concept_lists2(concept_list1, concept_list2)
+def how_related_are_concept_lists(concept_list1, concept_list2, metric_num=2):
+        s="how_related_are_concept_lists"+str(metric_num)
+        return globals()[s](concept_list1, concept_list2)
 
 #first implementation: take top 5 relationships
 def how_related_are_concept_lists1(concept_list1, concept_list2):
@@ -256,15 +257,33 @@ def how_related_are_concept_lists2(concept_list1, concept_list2):
 
 def list_ideas(db):
         print db
+##def add_new(db):
+##        title = raw_input("Enter idea title: ")
+##        text = raw_input("Enter idea text: ")
+##        print "Creating idea ",title
+##        new_idea=Idea(title,text)
+##        db.add(new_idea)
+##        db.populate_related_ideas(len(db.ideas_list)-1)
+##        print "Concepts in idea: ",str(new_idea.concepts)
+##        print "Related ideas: ",new_idea.print_related_ideas()
 def add_new(db):
         title = raw_input("Enter idea title: ")
         text = raw_input("Enter idea text: ")
-        print "Creating idea ",title
         new_idea=Idea(title,text)
         db.add(new_idea)
-        db.populate_related_ideas(len(db.ideas_list)-1)
-        print "Concepts in idea: ",str(new_idea.concepts)
+        idea_id=len(db.ideas_list)-1
+        db.populate_related_ideas(idea_id)
+        #print "Concepts in idea: ",str(new_idea.concepts)
         print "Related ideas: ",new_idea.print_related_ideas()
+        while True:
+                s=raw_input("Make relations with: ")
+                if s=="":
+                        break
+                l=s.split(" ")
+                for i in l:
+                        db.connect_ideas(idea_id,int(i))
+                print "Related idea suggestions:"
+                db.find_ideas_with_common_friends(idea_id)
 def connect(db):
         id1 = int(raw_input("Idea 1 ID: "))
         id2 = int(raw_input("Idea 2 ID: "))
