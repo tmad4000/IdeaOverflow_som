@@ -1,3 +1,4 @@
+
 TITLE: Workflow sharing
 DESCRIPTION: Take the workflows of top students and make or sell complete sets of customized materials to help other people adopt the workflows of the super productive people.
 MORE: start up idea is to take the workflows of top students and make/sell complete sets of customize materials to help other people adopt the workflows of the super productive people.I think that that's half the battle, getting into the right life-rhythm. I bet for each stereotype of person, you can find some sort of optimize workflow and then you go and get the workflow kit for the type of person you are like are you like riley or (racks brains) my friend jenny or like cj whose system do you use well fine the person you learn like you could even make "learn like riley" or “learn like a thiel fellow” or “learn like a harvard student” “or _insert child prodigy here_” Example workflow “take a normal sheet of paper fold it hamburger style but then instead of folding it all the way to symmetry, give a quarter inch gap between the two folds then with the fold pointing to the right, fold it top-to-bottom 3 times unfold then write terms on outer flap, definitions on inner flap fold over, repeat IT'S HAPPY. I've done like 264 defines in 3 hours but actually a lot of perceived inefficiency or  failure /does/ come from shitty workflows once I have a system set up, the stuff practically teaches itself i'm just starting to hack school coursenotes: ocw formatting: latex killer ppts: magic markers THE LIST GOES ON.” In parallel, as college students, we’re  SITTING ON GOLD.(e.g.  my friends coursenotes/annotated copy of Poems Poets Poetry is a GOLDMINE. like she should just republish the darn anthology with her notes. http://www.scotthyoung.com/blog/ makes his business off of this i want the workflow of someone super geniusly good - Jacob (and Riley)
@@ -155,7 +156,7 @@ TECHNOLOGY: OCR
 TAGS: ~Jacob
 
 TITLE: Instaquote
-DESCRIPTION: Autocomplete quotes and create a database of quotes you’re interested in.
+DESCRIPTION: Autocomplete quotes, create a database of quotes you’re interested in.
 MORE: Instaquote -- site that autocompletes quotes like instadefine.com  and it basically ends up letting you create a database  of quotes you're interested in
 and this is deep because quotes are your thoughts stated more clearly than you can state them yourself and if you make a db of all the quotes people think of  you get a huge window into their lives  it #relates to the power of status message logging. example:  is  send myself  email  of quotes I like  for instance  "and it scared me, having a wrong thought, because it meant my mind wasn't working properly"  from the curious incident of the dog in the night-time  i just was rereading today and i realized that was brilliant  because it relates to a concept  of avidya  in eastern philosophy the idea that there are some thoughts that we have that aren't true, but instead  things that shouldn't bother us bother us  and when we think carefully and relax we can learn to only be bothered by the right things  (relatedly, there's a lot to be done with etymology) #intentiondb ~jcole@mit.edu
 PROBLEM:
@@ -164,7 +165,7 @@ TECHNOLOGY:
 TAGS: ~Jacob
 
 TITLE: FoodMom
-DESCRIPTION: App that tells you what to cook and automatically orders ingredients (or makes you a shopping list)
+DESCRIPTION: App that tells you what to cook, automatically orders ingredients (or makes you a shopping list), and suggests who you should cook with.
 MORE: FoodMom -- App that tells you what to cook and automatically orders ingredients (or makes you a shopping list). Also suggest who you should cook with using the following meeting people strategy:” ~Jacob   +1 ~csvoss@mit.edu ~jcole@mit.edu #6.470 Meet people who have similar interests by matching people to each other who have mentioned titles to the same Wikipedia articles in their gmail chats, or used the same quotes. (Or it could look at your playlist history and match by music taste! (real “musicmatch”)). Cooking/eating is one of the few anchors to physical world in an era of increasing digital distraction, and we should use it to resurrect classic face to face socialization. Ideas. Starts with http://foodlists.tk/ #primer #lifecoach
 PROBLEM:
 SOLUTION:
@@ -220,5 +221,37 @@ PROBLEM: Voters can’t gauge how successful government is.
 SOLUTION: A simple GUI that voters can use to quickly see what government is trying to accomplish and how far it has gotten towards achieving its goals.
 TECHNOLOGY:
 TAGS: ~Jacob
+
+TITLE: EveryDayOfYourLife
+DESCRIPTION: Ask a user to answer daily questions for self-reflection and share answers
+MORE: 
+PROBLEM: 
+SOLUTION: 
+TECHNOLOGY: 
+TAGS: 
+
+TITLE: Minimalist homepages
+DESCRIPTION: Quick workflow to make minimalist homepage for yourself using Google docs and tk domains
+MORE: 
+PROBLEM: 
+SOLUTION: 
+TECHNOLOGY: 
+TAGS: 
+
+TITLE: GrabLunchWith app
+DESCRIPTION: Suggests where you should have lunch, and recommends friends to go to the same place so they meet.
+MORE: 
+PROBLEM: 
+SOLUTION: 
+TECHNOLOGY: 
+TAGS: 
+
+TITLE: Academic conversations tool
+DESCRIPTION: matches people that have mentioned titles to the same Wikipedia articles in their chats, or quotes
+MORE:
+PROBLEM: 
+SOLUTION: 
+TECHNOLOGY: 
+TAGS: 
 
 
